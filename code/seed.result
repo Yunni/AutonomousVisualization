@@ -1,0 +1,1578 @@
+Expr 1:("v['area A']", "v['perimeter P']")	0.0576230610796
+	Current best("v['area A']", "v['perimeter P']")	0.0576230610796
+Expr 2:("v['area A']", "log(v['perimeter P'])")	0.0595736586272
+	Current best("v['area A']", "log(v['perimeter P'])")	0.0595736586272
+Expr 3:("v['area A']", "exp(v['perimeter P'])")	0.0478879261996
+	Current best("v['area A']", "log(v['perimeter P'])")	0.0595736586272
+Expr 4:("v['area A']", "sqrt(v['perimeter P'])")	0.0586014328504
+	Current best("v['area A']", "log(v['perimeter P'])")	0.0595736586272
+Expr 5:("log(v['area A'])", "v['perimeter P']")	0.0600006647123
+	Current best("log(v['area A'])", "v['perimeter P']")	0.0600006647123
+Expr 6:("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 7:("log(v['area A'])", "exp(v['perimeter P'])")	0.0502655298324
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 8:("log(v['area A'])", "sqrt(v['perimeter P'])")	0.0609790364832
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 9:("exp(v['area A'])", "v['perimeter P']")	0.0404094862518
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 10:("exp(v['area A'])", "log(v['perimeter P'])")	0.0423600837994
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 11:("exp(v['area A'])", "exp(v['perimeter P'])")	0.0306743513718
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 12:("exp(v['area A'])", "sqrt(v['perimeter P'])")	0.0413878580226
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 13:("sqrt(v['area A'])", "v['perimeter P']")	0.0586612298267
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 14:("sqrt(v['area A'])", "log(v['perimeter P'])")	0.0606118273743
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 15:("sqrt(v['area A'])", "exp(v['perimeter P'])")	0.0489260949467
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 16:("sqrt(v['area A'])", "sqrt(v['perimeter P'])")	0.0596396015975
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 17:("v['area A']", "v['compactness']")	0.0538072178024
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 18:("v['area A']", "log(v['compactness'])")	0.0538952009778
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 19:("v['area A']", "exp(v['compactness'])")	0.0537282432771
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 20:("v['area A']", "sqrt(v['compactness'])")	0.0538512290563
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 21:("log(v['area A'])", "v['compactness']")	0.0561848214351
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 22:("log(v['area A'])", "log(v['compactness'])")	0.0562728046106
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 23:("log(v['area A'])", "exp(v['compactness'])")	0.0561058469098
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 24:("log(v['area A'])", "sqrt(v['compactness'])")	0.0562288326891
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 25:("exp(v['area A'])", "v['compactness']")	0.0365936429746
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 26:("exp(v['area A'])", "log(v['compactness'])")	0.03668162615
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 27:("exp(v['area A'])", "exp(v['compactness'])")	0.0365146684492
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 28:("exp(v['area A'])", "sqrt(v['compactness'])")	0.0366376542285
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 29:("sqrt(v['area A'])", "v['compactness']")	0.0548453865495
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 30:("sqrt(v['area A'])", "log(v['compactness'])")	0.0549333697249
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 31:("sqrt(v['area A'])", "exp(v['compactness'])")	0.0547664120242
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 32:("sqrt(v['area A'])", "sqrt(v['compactness'])")	0.0548893978034
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 33:("v['area A']", "v['length of kernel']")	0.0494691748929
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 34:("v['area A']", "log(v['length of kernel'])")	0.0495505674816
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 35:("v['area A']", "exp(v['length of kernel'])")	0.0522567444584
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 36:("v['area A']", "sqrt(v['length of kernel'])")	0.0493648576193
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 37:("log(v['area A'])", "v['length of kernel']")	0.0518467785257
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 38:("log(v['area A'])", "log(v['length of kernel'])")	0.0519281711143
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 39:("log(v['area A'])", "exp(v['length of kernel'])")	0.0546343480911
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 40:("log(v['area A'])", "sqrt(v['length of kernel'])")	0.0517424612521
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 41:("exp(v['area A'])", "v['length of kernel']")	0.0322556000651
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 42:("exp(v['area A'])", "log(v['length of kernel'])")	0.0323369926538
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 43:("exp(v['area A'])", "exp(v['length of kernel'])")	0.0350431696305
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 44:("exp(v['area A'])", "sqrt(v['length of kernel'])")	0.0321512827915
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 45:("sqrt(v['area A'])", "v['length of kernel']")	0.05050734364
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 46:("sqrt(v['area A'])", "log(v['length of kernel'])")	0.0505887362287
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 47:("sqrt(v['area A'])", "exp(v['length of kernel'])")	0.0532949132055
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 48:("sqrt(v['area A'])", "sqrt(v['length of kernel'])")	0.0504030263664
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 49:("v['area A']", "v['width of kernel']")	0.0559825065225
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 50:("v['area A']", "log(v['width of kernel'])")	0.0566645319342
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 51:("v['area A']", "exp(v['width of kernel'])")	0.0542383324655
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 52:("v['area A']", "sqrt(v['width of kernel'])")	0.0563063607986
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 53:("log(v['area A'])", "v['width of kernel']")	0.0583601101553
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 54:("log(v['area A'])", "log(v['width of kernel'])")	0.059042135567
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 55:("log(v['area A'])", "exp(v['width of kernel'])")	0.0566159360982
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 56:("log(v['area A'])", "sqrt(v['width of kernel'])")	0.0586839644314
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 57:("exp(v['area A'])", "v['width of kernel']")	0.0387689316947
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 58:("exp(v['area A'])", "log(v['width of kernel'])")	0.0394509571064
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 59:("exp(v['area A'])", "exp(v['width of kernel'])")	0.0370247576376
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 60:("exp(v['area A'])", "sqrt(v['width of kernel'])")	0.0390927859708
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 61:("sqrt(v['area A'])", "v['width of kernel']")	0.0570206752696
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 62:("sqrt(v['area A'])", "log(v['width of kernel'])")	0.0577027006813
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 63:("sqrt(v['area A'])", "exp(v['width of kernel'])")	0.0552765012126
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 64:("sqrt(v['area A'])", "sqrt(v['width of kernel'])")	0.0573445295458
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 65:("v['area A']", "v['asymmetry coefficient']")	0.0563215223152
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 66:("v['area A']", "log(v['asymmetry coefficient'])")	0.0547618577549
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 67:("v['area A']", "exp(v['asymmetry coefficient'])")	0.0476782189225
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 68:("v['area A']", "sqrt(v['asymmetry coefficient'])")	0.0555485975215
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 69:("log(v['area A'])", "v['asymmetry coefficient']")	0.058699125948
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 70:("log(v['area A'])", "log(v['asymmetry coefficient'])")	0.0571394613877
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 71:("log(v['area A'])", "exp(v['asymmetry coefficient'])")	0.0500558225553
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 72:("log(v['area A'])", "sqrt(v['asymmetry coefficient'])")	0.0579262011542
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 73:("exp(v['area A'])", "v['asymmetry coefficient']")	0.0391079474874
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 74:("exp(v['area A'])", "log(v['asymmetry coefficient'])")	0.0375482829271
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 75:("exp(v['area A'])", "exp(v['asymmetry coefficient'])")	0.0304646440947
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 76:("exp(v['area A'])", "sqrt(v['asymmetry coefficient'])")	0.0383350226937
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 77:("sqrt(v['area A'])", "v['asymmetry coefficient']")	0.0573596910623
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 78:("sqrt(v['area A'])", "log(v['asymmetry coefficient'])")	0.055800026502
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 79:("sqrt(v['area A'])", "exp(v['asymmetry coefficient'])")	0.0487163876696
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 80:("sqrt(v['area A'])", "sqrt(v['asymmetry coefficient'])")	0.0565867662686
+	Current best("log(v['area A'])", "log(v['perimeter P'])")	0.06195126226
+Expr 81:("v['area A']", "v['length of kernel groove']")	0.0708477242099
+	Current best("v['area A']", "v['length of kernel groove']")	0.0708477242099
+Expr 82:("v['area A']", "log(v['length of kernel groove'])")	0.073961752714
+	Current best("v['area A']", "log(v['length of kernel groove'])")	0.073961752714
+Expr 83:("v['area A']", "exp(v['length of kernel groove'])")	0.0621269440429
+	Current best("v['area A']", "log(v['length of kernel groove'])")	0.073961752714
+Expr 84:("v['area A']", "sqrt(v['length of kernel groove'])")	0.0724045662829
+	Current best("v['area A']", "log(v['length of kernel groove'])")	0.073961752714
+Expr 85:("log(v['area A'])", "v['length of kernel groove']")	0.0732253278427
+	Current best("v['area A']", "log(v['length of kernel groove'])")	0.073961752714
+Expr 86:("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 87:("log(v['area A'])", "exp(v['length of kernel groove'])")	0.0645045476757
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 88:("log(v['area A'])", "sqrt(v['length of kernel groove'])")	0.0747821699156
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 89:("exp(v['area A'])", "v['length of kernel groove']")	0.0536341493821
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 90:("exp(v['area A'])", "log(v['length of kernel groove'])")	0.0567481778862
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 91:("exp(v['area A'])", "exp(v['length of kernel groove'])")	0.0449133692151
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 92:("exp(v['area A'])", "sqrt(v['length of kernel groove'])")	0.055190991455
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 93:("sqrt(v['area A'])", "v['length of kernel groove']")	0.0718858929571
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 94:("sqrt(v['area A'])", "log(v['length of kernel groove'])")	0.0749999214611
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 95:("sqrt(v['area A'])", "exp(v['length of kernel groove'])")	0.06316511279
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 96:("sqrt(v['area A'])", "sqrt(v['length of kernel groove'])")	0.07344273503
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 97:("v['perimeter P']", "v['compactness']")	0.0453124419167
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 98:("v['perimeter P']", "log(v['compactness'])")	0.0454004250921
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 99:("v['perimeter P']", "exp(v['compactness'])")	0.0452334673913
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 100:("v['perimeter P']", "sqrt(v['compactness'])")	0.0453564531706
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 101:("log(v['perimeter P'])", "v['compactness']")	0.0472630394643
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 102:("log(v['perimeter P'])", "log(v['compactness'])")	0.0473510226397
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 103:("log(v['perimeter P'])", "exp(v['compactness'])")	0.047184064939
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 104:("log(v['perimeter P'])", "sqrt(v['compactness'])")	0.0473070507182
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 105:("exp(v['perimeter P'])", "v['compactness']")	0.0355773070367
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 106:("exp(v['perimeter P'])", "log(v['compactness'])")	0.0356652902121
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 107:("exp(v['perimeter P'])", "exp(v['compactness'])")	0.0354983325114
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 108:("exp(v['perimeter P'])", "sqrt(v['compactness'])")	0.0356213182907
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 109:("sqrt(v['perimeter P'])", "v['compactness']")	0.0462908136875
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 110:("sqrt(v['perimeter P'])", "log(v['compactness'])")	0.0463787968629
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 111:("sqrt(v['perimeter P'])", "exp(v['compactness'])")	0.0462118391622
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 112:("sqrt(v['perimeter P'])", "sqrt(v['compactness'])")	0.0463348249415
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 113:("v['perimeter P']", "v['length of kernel']")	0.0409743990072
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 114:("v['perimeter P']", "log(v['length of kernel'])")	0.0410557915959
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 115:("v['perimeter P']", "exp(v['length of kernel'])")	0.0437619685726
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 116:("v['perimeter P']", "sqrt(v['length of kernel'])")	0.0408700817336
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 117:("log(v['perimeter P'])", "v['length of kernel']")	0.0429249965548
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 118:("log(v['perimeter P'])", "log(v['length of kernel'])")	0.0430063891435
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 119:("log(v['perimeter P'])", "exp(v['length of kernel'])")	0.0457125661203
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 120:("log(v['perimeter P'])", "sqrt(v['length of kernel'])")	0.0428206792812
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 121:("exp(v['perimeter P'])", "v['length of kernel']")	0.0312392641272
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 122:("exp(v['perimeter P'])", "log(v['length of kernel'])")	0.0313206567159
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 123:("exp(v['perimeter P'])", "exp(v['length of kernel'])")	0.0340268336927
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 124:("exp(v['perimeter P'])", "sqrt(v['length of kernel'])")	0.0311349468537
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 125:("sqrt(v['perimeter P'])", "v['length of kernel']")	0.041952770778
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 126:("sqrt(v['perimeter P'])", "log(v['length of kernel'])")	0.0420341633667
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 127:("sqrt(v['perimeter P'])", "exp(v['length of kernel'])")	0.0447403403435
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 128:("sqrt(v['perimeter P'])", "sqrt(v['length of kernel'])")	0.0418484535045
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 129:("v['perimeter P']", "v['width of kernel']")	0.0474877306368
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 130:("v['perimeter P']", "log(v['width of kernel'])")	0.0481697560485
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 131:("v['perimeter P']", "exp(v['width of kernel'])")	0.0457435565797
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 132:("v['perimeter P']", "sqrt(v['width of kernel'])")	0.0478115849129
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 133:("log(v['perimeter P'])", "v['width of kernel']")	0.0494383281844
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 134:("log(v['perimeter P'])", "log(v['width of kernel'])")	0.0501203535961
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 135:("log(v['perimeter P'])", "exp(v['width of kernel'])")	0.0476941541274
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 136:("log(v['perimeter P'])", "sqrt(v['width of kernel'])")	0.0497621824605
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 137:("exp(v['perimeter P'])", "v['width of kernel']")	0.0377525957568
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 138:("exp(v['perimeter P'])", "log(v['width of kernel'])")	0.0384346211685
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 139:("exp(v['perimeter P'])", "exp(v['width of kernel'])")	0.0360084216998
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 140:("exp(v['perimeter P'])", "sqrt(v['width of kernel'])")	0.038076450033
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 141:("sqrt(v['perimeter P'])", "v['width of kernel']")	0.0484661024076
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 142:("sqrt(v['perimeter P'])", "log(v['width of kernel'])")	0.0491481278193
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 143:("sqrt(v['perimeter P'])", "exp(v['width of kernel'])")	0.0467219283506
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 144:("sqrt(v['perimeter P'])", "sqrt(v['width of kernel'])")	0.0487899566838
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 145:("v['perimeter P']", "v['asymmetry coefficient']")	0.0478267464295
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 146:("v['perimeter P']", "log(v['asymmetry coefficient'])")	0.0462670818692
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 147:("v['perimeter P']", "exp(v['asymmetry coefficient'])")	0.0391834430368
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 148:("v['perimeter P']", "sqrt(v['asymmetry coefficient'])")	0.0470538216358
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 149:("log(v['perimeter P'])", "v['asymmetry coefficient']")	0.0497773439771
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 150:("log(v['perimeter P'])", "log(v['asymmetry coefficient'])")	0.0482176794168
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 151:("log(v['perimeter P'])", "exp(v['asymmetry coefficient'])")	0.0411340405844
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 152:("log(v['perimeter P'])", "sqrt(v['asymmetry coefficient'])")	0.0490044191834
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 153:("exp(v['perimeter P'])", "v['asymmetry coefficient']")	0.0380916115495
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 154:("exp(v['perimeter P'])", "log(v['asymmetry coefficient'])")	0.0365319469893
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 155:("exp(v['perimeter P'])", "exp(v['asymmetry coefficient'])")	0.0294483081568
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 156:("exp(v['perimeter P'])", "sqrt(v['asymmetry coefficient'])")	0.0373186867558
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 157:("sqrt(v['perimeter P'])", "v['asymmetry coefficient']")	0.0488051182003
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 158:("sqrt(v['perimeter P'])", "log(v['asymmetry coefficient'])")	0.0472454536401
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 159:("sqrt(v['perimeter P'])", "exp(v['asymmetry coefficient'])")	0.0401618148076
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 160:("sqrt(v['perimeter P'])", "sqrt(v['asymmetry coefficient'])")	0.0480321934066
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 161:("v['perimeter P']", "v['length of kernel groove']")	0.0623529483242
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 162:("v['perimeter P']", "log(v['length of kernel groove'])")	0.0654669768283
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 163:("v['perimeter P']", "exp(v['length of kernel groove'])")	0.0536321681572
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 164:("v['perimeter P']", "sqrt(v['length of kernel groove'])")	0.0639097903971
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 165:("log(v['perimeter P'])", "v['length of kernel groove']")	0.0643035458719
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 166:("log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0674175743759
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 167:("log(v['perimeter P'])", "exp(v['length of kernel groove'])")	0.0555827657048
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 168:("log(v['perimeter P'])", "sqrt(v['length of kernel groove'])")	0.0658603879448
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 169:("exp(v['perimeter P'])", "v['length of kernel groove']")	0.0526178134443
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 170:("exp(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0557318419484
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 171:("exp(v['perimeter P'])", "exp(v['length of kernel groove'])")	0.0438970332773
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 172:("exp(v['perimeter P'])", "sqrt(v['length of kernel groove'])")	0.0541746555172
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 173:("sqrt(v['perimeter P'])", "v['length of kernel groove']")	0.0633313200951
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 174:("sqrt(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0664453485991
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 175:("sqrt(v['perimeter P'])", "exp(v['length of kernel groove'])")	0.054610539928
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 176:("sqrt(v['perimeter P'])", "sqrt(v['length of kernel groove'])")	0.064888162168
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 177:("v['compactness']", "v['length of kernel']")	0.03715855573
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 178:("v['compactness']", "log(v['length of kernel'])")	0.0372399483187
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 179:("v['compactness']", "exp(v['length of kernel'])")	0.0399461252954
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 180:("v['compactness']", "sqrt(v['length of kernel'])")	0.0370542384564
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 181:("log(v['compactness'])", "v['length of kernel']")	0.0372465389054
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 182:("log(v['compactness'])", "log(v['length of kernel'])")	0.0373279314941
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 183:("log(v['compactness'])", "exp(v['length of kernel'])")	0.0400341084709
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 184:("log(v['compactness'])", "sqrt(v['length of kernel'])")	0.0371422216318
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 185:("exp(v['compactness'])", "v['length of kernel']")	0.0370795812047
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 186:("exp(v['compactness'])", "log(v['length of kernel'])")	0.0371609737933
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 187:("exp(v['compactness'])", "exp(v['length of kernel'])")	0.0398671507701
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 188:("exp(v['compactness'])", "sqrt(v['length of kernel'])")	0.0369752639311
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 189:("sqrt(v['compactness'])", "v['length of kernel']")	0.0372025669839
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 190:("sqrt(v['compactness'])", "log(v['length of kernel'])")	0.0372839595726
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 191:("sqrt(v['compactness'])", "exp(v['length of kernel'])")	0.0399901365494
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 192:("sqrt(v['compactness'])", "sqrt(v['length of kernel'])")	0.0370982497104
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 193:("v['compactness']", "v['width of kernel']")	0.0436718873596
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 194:("v['compactness']", "log(v['width of kernel'])")	0.0443539127713
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 195:("v['compactness']", "exp(v['width of kernel'])")	0.0419277133025
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 196:("v['compactness']", "sqrt(v['width of kernel'])")	0.0439957416357
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 197:("log(v['compactness'])", "v['width of kernel']")	0.043759870535
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 198:("log(v['compactness'])", "log(v['width of kernel'])")	0.0444418959467
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 199:("log(v['compactness'])", "exp(v['width of kernel'])")	0.042015696478
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 200:("log(v['compactness'])", "sqrt(v['width of kernel'])")	0.0440837248111
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 201:("exp(v['compactness'])", "v['width of kernel']")	0.0435929128343
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 202:("exp(v['compactness'])", "log(v['width of kernel'])")	0.044274938246
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 203:("exp(v['compactness'])", "exp(v['width of kernel'])")	0.0418487387772
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 204:("exp(v['compactness'])", "sqrt(v['width of kernel'])")	0.0439167671104
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 205:("sqrt(v['compactness'])", "v['width of kernel']")	0.0437158986135
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 206:("sqrt(v['compactness'])", "log(v['width of kernel'])")	0.0443979240252
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 207:("sqrt(v['compactness'])", "exp(v['width of kernel'])")	0.0419717245565
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 208:("sqrt(v['compactness'])", "sqrt(v['width of kernel'])")	0.0440397528897
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 209:("v['compactness']", "v['asymmetry coefficient']")	0.0440109031523
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 210:("v['compactness']", "log(v['asymmetry coefficient'])")	0.042451238592
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 211:("v['compactness']", "exp(v['asymmetry coefficient'])")	0.0353675997596
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 212:("v['compactness']", "sqrt(v['asymmetry coefficient'])")	0.0432379783586
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 213:("log(v['compactness'])", "v['asymmetry coefficient']")	0.0440988863277
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 214:("log(v['compactness'])", "log(v['asymmetry coefficient'])")	0.0425392217674
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 215:("log(v['compactness'])", "exp(v['asymmetry coefficient'])")	0.035455582935
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 216:("log(v['compactness'])", "sqrt(v['asymmetry coefficient'])")	0.043325961534
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 217:("exp(v['compactness'])", "v['asymmetry coefficient']")	0.043931928627
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 218:("exp(v['compactness'])", "log(v['asymmetry coefficient'])")	0.0423722640667
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 219:("exp(v['compactness'])", "exp(v['asymmetry coefficient'])")	0.0352886252343
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 220:("exp(v['compactness'])", "sqrt(v['asymmetry coefficient'])")	0.0431590038332
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 221:("sqrt(v['compactness'])", "v['asymmetry coefficient']")	0.0440549144062
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 222:("sqrt(v['compactness'])", "log(v['asymmetry coefficient'])")	0.042495249846
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 223:("sqrt(v['compactness'])", "exp(v['asymmetry coefficient'])")	0.0354116110135
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 224:("sqrt(v['compactness'])", "sqrt(v['asymmetry coefficient'])")	0.0432819896125
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 225:("v['compactness']", "v['length of kernel groove']")	0.058537105047
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 226:("v['compactness']", "log(v['length of kernel groove'])")	0.0616511335511
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 227:("v['compactness']", "exp(v['length of kernel groove'])")	0.04981632488
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 228:("v['compactness']", "sqrt(v['length of kernel groove'])")	0.0600939471199
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 229:("log(v['compactness'])", "v['length of kernel groove']")	0.0586250882225
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 230:("log(v['compactness'])", "log(v['length of kernel groove'])")	0.0617391167265
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 231:("log(v['compactness'])", "exp(v['length of kernel groove'])")	0.0499043080554
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 232:("log(v['compactness'])", "sqrt(v['length of kernel groove'])")	0.0601819302954
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 233:("exp(v['compactness'])", "v['length of kernel groove']")	0.0584581305217
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 234:("exp(v['compactness'])", "log(v['length of kernel groove'])")	0.0615721590258
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 235:("exp(v['compactness'])", "exp(v['length of kernel groove'])")	0.0497373503547
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 236:("exp(v['compactness'])", "sqrt(v['length of kernel groove'])")	0.0600149725946
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 237:("sqrt(v['compactness'])", "v['length of kernel groove']")	0.058581116301
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 238:("sqrt(v['compactness'])", "log(v['length of kernel groove'])")	0.061695144805
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 239:("sqrt(v['compactness'])", "exp(v['length of kernel groove'])")	0.049860336134
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 240:("sqrt(v['compactness'])", "sqrt(v['length of kernel groove'])")	0.0601379583739
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 241:("v['length of kernel']", "v['width of kernel']")	0.0393338444501
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 242:("v['length of kernel']", "log(v['width of kernel'])")	0.0400158698618
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 243:("v['length of kernel']", "exp(v['width of kernel'])")	0.0375896703931
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 244:("v['length of kernel']", "sqrt(v['width of kernel'])")	0.0396576987262
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 245:("log(v['length of kernel'])", "v['width of kernel']")	0.0394152370388
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 246:("log(v['length of kernel'])", "log(v['width of kernel'])")	0.0400972624505
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 247:("log(v['length of kernel'])", "exp(v['width of kernel'])")	0.0376710629817
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 248:("log(v['length of kernel'])", "sqrt(v['width of kernel'])")	0.0397390913149
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 249:("exp(v['length of kernel'])", "v['width of kernel']")	0.0421214140156
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 250:("exp(v['length of kernel'])", "log(v['width of kernel'])")	0.0428034394273
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 251:("exp(v['length of kernel'])", "exp(v['width of kernel'])")	0.0403772399585
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 252:("exp(v['length of kernel'])", "sqrt(v['width of kernel'])")	0.0424452682917
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 253:("sqrt(v['length of kernel'])", "v['width of kernel']")	0.0392295271765
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 254:("sqrt(v['length of kernel'])", "log(v['width of kernel'])")	0.0399115525882
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 255:("sqrt(v['length of kernel'])", "exp(v['width of kernel'])")	0.0374853531195
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 256:("sqrt(v['length of kernel'])", "sqrt(v['width of kernel'])")	0.0395533814527
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 257:("v['length of kernel']", "v['asymmetry coefficient']")	0.0396728602428
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 258:("v['length of kernel']", "log(v['asymmetry coefficient'])")	0.0381131956825
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 259:("v['length of kernel']", "exp(v['asymmetry coefficient'])")	0.0310295568501
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 260:("v['length of kernel']", "sqrt(v['asymmetry coefficient'])")	0.0388999354491
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 261:("log(v['length of kernel'])", "v['asymmetry coefficient']")	0.0397542528315
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 262:("log(v['length of kernel'])", "log(v['asymmetry coefficient'])")	0.0381945882712
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 263:("log(v['length of kernel'])", "exp(v['asymmetry coefficient'])")	0.0311109494388
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 264:("log(v['length of kernel'])", "sqrt(v['asymmetry coefficient'])")	0.0389813280378
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 265:("exp(v['length of kernel'])", "v['asymmetry coefficient']")	0.0424604298083
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 266:("exp(v['length of kernel'])", "log(v['asymmetry coefficient'])")	0.040900765248
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 267:("exp(v['length of kernel'])", "exp(v['asymmetry coefficient'])")	0.0338171264156
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 268:("exp(v['length of kernel'])", "sqrt(v['asymmetry coefficient'])")	0.0416875050145
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 269:("sqrt(v['length of kernel'])", "v['asymmetry coefficient']")	0.0395685429692
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 270:("sqrt(v['length of kernel'])", "log(v['asymmetry coefficient'])")	0.038008878409
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 271:("sqrt(v['length of kernel'])", "exp(v['asymmetry coefficient'])")	0.0309252395765
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 272:("sqrt(v['length of kernel'])", "sqrt(v['asymmetry coefficient'])")	0.0387956181755
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 273:("v['length of kernel']", "v['length of kernel groove']")	0.0541990621376
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 274:("v['length of kernel']", "log(v['length of kernel groove'])")	0.0573130906416
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 275:("v['length of kernel']", "exp(v['length of kernel groove'])")	0.0454782819705
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 276:("v['length of kernel']", "sqrt(v['length of kernel groove'])")	0.0557559042105
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 277:("log(v['length of kernel'])", "v['length of kernel groove']")	0.0542804547262
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 278:("log(v['length of kernel'])", "log(v['length of kernel groove'])")	0.0573944832303
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 279:("log(v['length of kernel'])", "exp(v['length of kernel groove'])")	0.0455596745592
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 280:("log(v['length of kernel'])", "sqrt(v['length of kernel groove'])")	0.0558372967992
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 281:("exp(v['length of kernel'])", "v['length of kernel groove']")	0.056986631703
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 282:("exp(v['length of kernel'])", "log(v['length of kernel groove'])")	0.0601006602071
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 283:("exp(v['length of kernel'])", "exp(v['length of kernel groove'])")	0.048265851536
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 284:("exp(v['length of kernel'])", "sqrt(v['length of kernel groove'])")	0.0585434737759
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 285:("sqrt(v['length of kernel'])", "v['length of kernel groove']")	0.054094744864
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 286:("sqrt(v['length of kernel'])", "log(v['length of kernel groove'])")	0.0572087733681
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 287:("sqrt(v['length of kernel'])", "exp(v['length of kernel groove'])")	0.045373964697
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 288:("sqrt(v['length of kernel'])", "sqrt(v['length of kernel groove'])")	0.0556515869369
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 289:("v['width of kernel']", "v['asymmetry coefficient']")	0.0461861918724
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 290:("v['width of kernel']", "log(v['asymmetry coefficient'])")	0.0446265273121
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 291:("v['width of kernel']", "exp(v['asymmetry coefficient'])")	0.0375428884797
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 292:("v['width of kernel']", "sqrt(v['asymmetry coefficient'])")	0.0454132670787
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 293:("log(v['width of kernel'])", "v['asymmetry coefficient']")	0.0468682172841
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 294:("log(v['width of kernel'])", "log(v['asymmetry coefficient'])")	0.0453085527238
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 295:("log(v['width of kernel'])", "exp(v['asymmetry coefficient'])")	0.0382249138914
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 296:("log(v['width of kernel'])", "sqrt(v['asymmetry coefficient'])")	0.0460952924904
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 297:("exp(v['width of kernel'])", "v['asymmetry coefficient']")	0.0444420178154
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 298:("exp(v['width of kernel'])", "log(v['asymmetry coefficient'])")	0.0428823532551
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 299:("exp(v['width of kernel'])", "exp(v['asymmetry coefficient'])")	0.0357987144227
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 300:("exp(v['width of kernel'])", "sqrt(v['asymmetry coefficient'])")	0.0436690930216
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 301:("sqrt(v['width of kernel'])", "v['asymmetry coefficient']")	0.0465100461485
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 302:("sqrt(v['width of kernel'])", "log(v['asymmetry coefficient'])")	0.0449503815883
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 303:("sqrt(v['width of kernel'])", "exp(v['asymmetry coefficient'])")	0.0378667427558
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 304:("sqrt(v['width of kernel'])", "sqrt(v['asymmetry coefficient'])")	0.0457371213548
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 305:("v['width of kernel']", "v['length of kernel groove']")	0.0607123937672
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 306:("v['width of kernel']", "log(v['length of kernel groove'])")	0.0638264222712
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 307:("v['width of kernel']", "exp(v['length of kernel groove'])")	0.0519916136001
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 308:("v['width of kernel']", "sqrt(v['length of kernel groove'])")	0.0622692358401
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 309:("log(v['width of kernel'])", "v['length of kernel groove']")	0.0613944191789
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 310:("log(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0645084476829
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 311:("log(v['width of kernel'])", "exp(v['length of kernel groove'])")	0.0526736390118
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 312:("log(v['width of kernel'])", "sqrt(v['length of kernel groove'])")	0.0629512612518
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 313:("exp(v['width of kernel'])", "v['length of kernel groove']")	0.0589682197101
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 314:("exp(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0620822482142
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 315:("exp(v['width of kernel'])", "exp(v['length of kernel groove'])")	0.0502474395431
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 316:("exp(v['width of kernel'])", "sqrt(v['length of kernel groove'])")	0.060525061783
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 317:("sqrt(v['width of kernel'])", "v['length of kernel groove']")	0.0610362480433
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 318:("sqrt(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0641502765474
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 319:("sqrt(v['width of kernel'])", "exp(v['length of kernel groove'])")	0.0523154678763
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 320:("sqrt(v['width of kernel'])", "sqrt(v['length of kernel groove'])")	0.0625930901162
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 321:("v['asymmetry coefficient']", "v['length of kernel groove']")	0.0610514095599
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 322:("v['asymmetry coefficient']", "log(v['length of kernel groove'])")	0.0641654380639
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 323:("v['asymmetry coefficient']", "exp(v['length of kernel groove'])")	0.0523306293928
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 324:("v['asymmetry coefficient']", "sqrt(v['length of kernel groove'])")	0.0626082516328
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 325:("log(v['asymmetry coefficient'])", "v['length of kernel groove']")	0.0594917449996
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 326:("log(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0626057735036
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 327:("log(v['asymmetry coefficient'])", "exp(v['length of kernel groove'])")	0.0507709648326
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 328:("log(v['asymmetry coefficient'])", "sqrt(v['length of kernel groove'])")	0.0610485870725
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 329:("exp(v['asymmetry coefficient'])", "v['length of kernel groove']")	0.0524081061672
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 330:("exp(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0555221346712
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 331:("exp(v['asymmetry coefficient'])", "exp(v['length of kernel groove'])")	0.0436873260001
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 332:("exp(v['asymmetry coefficient'])", "sqrt(v['length of kernel groove'])")	0.0539649482401
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 333:("sqrt(v['asymmetry coefficient'])", "v['length of kernel groove']")	0.0602784847661
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 334:("sqrt(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0633925132702
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 335:("sqrt(v['asymmetry coefficient'])", "exp(v['length of kernel groove'])")	0.0515577045991
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 336:("sqrt(v['asymmetry coefficient'])", "sqrt(v['length of kernel groove'])")	0.061835326839
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 337:("log(v['area A'])+v['perimeter P']", "log(v['length of kernel groove'])")	0.0682801838372
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 338:("v['perimeter P']+log(v['area A'])", "log(v['length of kernel groove'])")	0.0682801838372
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 339:("log(v['area A'])", "log(v['length of kernel groove'])+v['perimeter P']")	0.061337420895
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 340:("log(v['area A'])", "v['perimeter P']+log(v['length of kernel groove'])")	0.061337420895
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 341:("log(v['area A'])-v['perimeter P']", "log(v['length of kernel groove'])")	0.064870101344
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 342:("v['perimeter P']-log(v['area A'])", "log(v['length of kernel groove'])")	0.064870101344
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 343:("log(v['area A'])", "log(v['length of kernel groove'])-v['perimeter P']")	0.0595821303012
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 344:("log(v['area A'])", "v['perimeter P']-log(v['length of kernel groove'])")	0.0595821303012
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 345:("log(v['area A'])*v['perimeter P']", "log(v['length of kernel groove'])")	0.0715044516089
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 346:("v['perimeter P']*log(v['area A'])", "log(v['length of kernel groove'])")	0.0715044516089
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 347:("log(v['area A'])", "log(v['length of kernel groove'])*v['perimeter P']")	0.0651218265357
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 348:("log(v['area A'])", "v['perimeter P']*log(v['length of kernel groove'])")	0.0651218265357
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 349:("log(v['area A'])/v['perimeter P']", "log(v['length of kernel groove'])")	0.0629337631894
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 350:("v['perimeter P']/log(v['area A'])", "log(v['length of kernel groove'])")	0.0630153079752
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 351:("log(v['area A'])", "log(v['length of kernel groove'])/v['perimeter P']")	0.0630775031948
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 352:("log(v['area A'])", "v['perimeter P']/log(v['length of kernel groove'])")	0.0664511928158
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 353:("log(v['area A'])**v['perimeter P']", "log(v['length of kernel groove'])")	0.0558871539588
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 354:("v['perimeter P']**log(v['area A'])", "log(v['length of kernel groove'])")	0.0653664045662
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 355:("log(v['area A'])", "log(v['length of kernel groove'])**v['perimeter P']")	0.054053885003
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 356:("log(v['area A'])", "v['perimeter P']**log(v['length of kernel groove'])")	0.0584970238284
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 357:("log(v['area A'])+log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0741413215404
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 358:("log(v['perimeter P'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0741413215404
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 359:("log(v['area A'])", "log(v['length of kernel groove'])+log(v['perimeter P'])")	0.0673484201191
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 360:("log(v['area A'])", "log(v['perimeter P'])+log(v['length of kernel groove'])")	0.0673484201191
+	Current best("log(v['area A'])", "log(v['length of kernel groove'])")	0.0763393563468
+Expr 361:("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 362:("log(v['perimeter P'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.0775145623383
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 363:("log(v['area A'])", "log(v['length of kernel groove'])-log(v['perimeter P'])")	0.0581015510572
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 364:("log(v['area A'])", "log(v['perimeter P'])-log(v['length of kernel groove'])")	0.0581015510572
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 365:("log(v['area A'])*log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0734912523245
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 366:("log(v['perimeter P'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.0734912523245
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 367:("log(v['area A'])", "log(v['length of kernel groove'])*log(v['perimeter P'])")	0.0690126681311
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 368:("log(v['area A'])", "log(v['perimeter P'])*log(v['length of kernel groove'])")	0.0690126681311
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 369:("log(v['area A'])/log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0764841322977
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 370:("log(v['perimeter P'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.072647607671
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 371:("log(v['area A'])", "log(v['length of kernel groove'])/log(v['perimeter P'])")	0.0551427643013
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 372:("log(v['area A'])", "log(v['perimeter P'])/log(v['length of kernel groove'])")	0.0547369365607
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 373:("log(v['area A'])**log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0705651526688
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 374:("log(v['perimeter P'])**log(v['area A'])", "log(v['length of kernel groove'])")	0.0701731158884
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 375:("log(v['area A'])", "log(v['length of kernel groove'])**log(v['perimeter P'])")	0.06865215495
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 376:("log(v['area A'])", "log(v['perimeter P'])**log(v['length of kernel groove'])")	0.0643353588016
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 377:("log(v['area A'])+exp(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0557318421531
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 378:("exp(v['perimeter P'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0557318421531
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 379:("log(v['area A'])", "log(v['length of kernel groove'])+exp(v['perimeter P'])")	0.0502655303858
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 380:("log(v['area A'])", "exp(v['perimeter P'])+log(v['length of kernel groove'])")	0.0502655303858
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 381:("log(v['area A'])-exp(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0557318416077
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 382:("exp(v['perimeter P'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.0557318416077
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 383:("log(v['area A'])", "log(v['length of kernel groove'])-exp(v['perimeter P'])")	0.0502655291818
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 384:("log(v['area A'])", "exp(v['perimeter P'])-log(v['length of kernel groove'])")	0.0502655291818
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 385:("log(v['area A'])*exp(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0562234812068
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 386:("exp(v['perimeter P'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.0562234812068
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 387:("log(v['area A'])", "log(v['length of kernel groove'])*exp(v['perimeter P'])")	0.0517579676642
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 388:("log(v['area A'])", "exp(v['perimeter P'])*log(v['length of kernel groove'])")	0.0517579676642
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 389:("log(v['area A'])/exp(v['perimeter P'])", "log(v['length of kernel groove'])")	0.054918230079
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 390:("exp(v['perimeter P'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.0552249439699
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 391:("log(v['area A'])", "log(v['length of kernel groove'])/exp(v['perimeter P'])")	0.0495666583906
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 392:("log(v['area A'])", "exp(v['perimeter P'])/log(v['length of kernel groove'])")	0.0491725489112
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 393:("exp(v['perimeter P'])**log(v['area A'])", "log(v['length of kernel groove'])")	0.05024379696
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 394:("log(v['area A'])", "exp(v['perimeter P'])**log(v['length of kernel groove'])")	0.0487193658168
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 395:("log(v['area A'])+sqrt(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0740400487625
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 396:("sqrt(v['perimeter P'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0740400487625
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 397:("log(v['area A'])", "log(v['length of kernel groove'])+sqrt(v['perimeter P'])")	0.0667430462433
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 398:("log(v['area A'])", "sqrt(v['perimeter P'])+log(v['length of kernel groove'])")	0.0667430462433
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 399:("log(v['area A'])-sqrt(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0554239204362
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 400:("sqrt(v['perimeter P'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.0554239204362
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 401:("log(v['area A'])", "log(v['length of kernel groove'])-sqrt(v['perimeter P'])")	0.0624216940706
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 402:("log(v['area A'])", "sqrt(v['perimeter P'])-log(v['length of kernel groove'])")	0.0624216940706
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 403:("log(v['area A'])*sqrt(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0742220581517
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 404:("sqrt(v['perimeter P'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.0742220581517
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 405:("log(v['area A'])", "log(v['length of kernel groove'])*sqrt(v['perimeter P'])")	0.0658172283214
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 406:("log(v['area A'])", "sqrt(v['perimeter P'])*log(v['length of kernel groove'])")	0.0658172283214
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 407:("log(v['area A'])/sqrt(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0629819226566
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 408:("sqrt(v['perimeter P'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.0620205348056
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 409:("log(v['area A'])", "log(v['length of kernel groove'])/sqrt(v['perimeter P'])")	0.0529644256591
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 410:("log(v['area A'])", "sqrt(v['perimeter P'])/log(v['length of kernel groove'])")	0.0528313364249
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 411:("log(v['area A'])**sqrt(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0682359623508
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 412:("sqrt(v['perimeter P'])**log(v['area A'])", "log(v['length of kernel groove'])")	0.0690290696052
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 413:("log(v['area A'])", "log(v['length of kernel groove'])**sqrt(v['perimeter P'])")	0.0635955124896
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 414:("log(v['area A'])", "sqrt(v['perimeter P'])**log(v['length of kernel groove'])")	0.0625729410454
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 415:("log(v['area A'])+v['compactness']", "log(v['length of kernel groove'])")	0.0764742057121
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 416:("v['compactness']+log(v['area A'])", "log(v['length of kernel groove'])")	0.0764742057121
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 417:("log(v['area A'])", "log(v['length of kernel groove'])+v['compactness']")	0.0765687302049
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 418:("log(v['area A'])", "v['compactness']+log(v['length of kernel groove'])")	0.0765687302049
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 419:("log(v['area A'])-v['compactness']", "log(v['length of kernel groove'])")	0.0699194105488
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 420:("v['compactness']-log(v['area A'])", "log(v['length of kernel groove'])")	0.0699194105488
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 421:("log(v['area A'])", "log(v['length of kernel groove'])-v['compactness']")	0.0551720625427
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 422:("log(v['area A'])", "v['compactness']-log(v['length of kernel groove'])")	0.0551720625427
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 423:("log(v['area A'])*v['compactness']", "log(v['length of kernel groove'])")	0.0681111313497
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 424:("v['compactness']*log(v['area A'])", "log(v['length of kernel groove'])")	0.0681111313497
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 425:("log(v['area A'])", "log(v['length of kernel groove'])*v['compactness']")	0.0721025746023
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 426:("log(v['area A'])", "v['compactness']*log(v['length of kernel groove'])")	0.0721025746023
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 427:("log(v['area A'])/v['compactness']", "log(v['length of kernel groove'])")	0.06152503864
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 428:("v['compactness']/log(v['area A'])", "log(v['length of kernel groove'])")	0.0628045571392
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 429:("log(v['area A'])", "log(v['length of kernel groove'])/v['compactness']")	0.0551226133504
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 430:("log(v['area A'])", "v['compactness']/log(v['length of kernel groove'])")	0.0540567749187
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 431:("log(v['area A'])**v['compactness']", "log(v['length of kernel groove'])")	0.0664217945764
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 432:("v['compactness']**log(v['area A'])", "log(v['length of kernel groove'])")	0.057676097825
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 433:("log(v['area A'])", "log(v['length of kernel groove'])**v['compactness']")	0.0741741784052
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 434:("log(v['area A'])", "v['compactness']**log(v['length of kernel groove'])")	0.054440749775
+	Current best("log(v['area A'])-log(v['perimeter P'])", "log(v['length of kernel groove'])")	0.0775145623383
+Expr 435:("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 436:("log(v['compactness'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0777380059639
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 437:("log(v['area A'])", "log(v['length of kernel groove'])+log(v['compactness'])")	0.0754769837092
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 438:("log(v['area A'])", "log(v['compactness'])+log(v['length of kernel groove'])")	0.0754769837092
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 439:("log(v['area A'])-log(v['compactness'])", "log(v['length of kernel groove'])")	0.0676778971941
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 440:("log(v['compactness'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.0676778971941
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 441:("log(v['area A'])", "log(v['length of kernel groove'])-log(v['compactness'])")	0.0517191861897
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 442:("log(v['area A'])", "log(v['compactness'])-log(v['length of kernel groove'])")	0.0517191861897
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 443:("log(v['area A'])*log(v['compactness'])", "log(v['length of kernel groove'])")	0.0573247396771
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 444:("log(v['compactness'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.0573247396771
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 445:("log(v['area A'])", "log(v['length of kernel groove'])*log(v['compactness'])")	0.0542567875025
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 446:("log(v['area A'])", "log(v['compactness'])*log(v['length of kernel groove'])")	0.0542567875025
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 447:("log(v['area A'])/log(v['compactness'])", "log(v['length of kernel groove'])")	0.064329753779
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 448:("log(v['compactness'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.0632367307087
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 449:("log(v['area A'])", "log(v['length of kernel groove'])/log(v['compactness'])")	0.0518137218448
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 450:("log(v['area A'])", "log(v['compactness'])/log(v['length of kernel groove'])")	0.0497053513431
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+Expr 451:("log(v['area A'])**log(v['compactness'])", "log(v['length of kernel groove'])")	0.0552454664854
+	Current best("log(v['area A'])+log(v['compactness'])", "log(v['length of kernel groove'])")	0.0777380059639
+/home/yun/Dropbox/Python/code/hdt.py:89: ComplexWarning: Casting complex values to real discards the imaginary part
+  mnmnj=mn[mnj-1]
+/home/yun/Dropbox/Python/code/hdt.py:92: ComplexWarning: Casting complex values to real discards the imaginary part
+  while not ((mnj==1) or (x[j-1]-x[mnj-1])*a < (x[mnj-1]-x[mnmnj-1])*b):
+/home/yun/Dropbox/Python/code/hdt.py:95: ComplexWarning: Casting complex values to real discards the imaginary part
+  mnmnj=mn[mnj-1]
+/home/yun/Dropbox/Python/code/hdt.py:108: ComplexWarning: Casting complex values to real discards the imaginary part
+  mjmjk=mj[mjk-1]
+/home/yun/Dropbox/Python/code/hdt.py:111: ComplexWarning: Casting complex values to real discards the imaginary part
+  while not ( (mjk==N) or (x[k-1]-x[mjk-1])*a<(x[mjk-1]-x[mjmjk-1])*b):
+/home/yun/Dropbox/Python/code/hdt.py:114: ComplexWarning: Casting complex values to real discards the imaginary part
+  mjmjk=mj[mjk-1]
+/home/yun/Dropbox/Python/code/hdt.py:125: ComplexWarning: Casting complex values to real discards the imaginary part
+  gcm[ic-1]=mn[igcm1-1]
+/home/yun/Dropbox/Python/code/hdt.py:130: ComplexWarning: Casting complex values to real discards the imaginary part
+  gcm[ic-1]=mn[igcm1-1]
+/home/yun/Dropbox/Python/code/hdt.py:139: ComplexWarning: Casting complex values to real discards the imaginary part
+  lcm[ic-1]=mj[lcm1-1]
+/home/yun/Dropbox/Python/code/hdt.py:143: ComplexWarning: Casting complex values to real discards the imaginary part
+  lcm[ic-1]=mj[lcm1-1]
+/home/yun/Dropbox/Python/code/hdt.py:175: ComplexWarning: Casting complex values to real discards the imaginary part
+  dx=(x[igcmx-1]-x[lcmiv1-1])*a/(fn*(x[lcmiv-1]-x[lcmiv1-1]))-b/fn
+/home/yun/Dropbox/Python/code/hdt.py:193: ComplexWarning: Casting complex values to real discards the imaginary part
+  dx=a/fn - ((x[lcmiv-1]-x[igcm1-1])*b)/(fn*(x[igcm-1]-x[igcm1-1]))
+/home/yun/Dropbox/Python/code/hdt.py:244: ComplexWarning: Casting complex values to real discards the imaginary part
+  if not (x[ke-1]==x[kb-1]):
+/home/yun/Dropbox/Python/code/hdt.py:246: ComplexWarning: Casting complex values to real discards the imaginary part
+  const=a/(fn*(x[ke-1]-x[kb-1]))
+/home/yun/Dropbox/Python/code/hdt.py:247: ComplexWarning: Casting complex values to real discards the imaginary part
+  for kr in range(int(kb),int(ke+1)):
+/home/yun/Dropbox/Python/code/hdt.py:249: ComplexWarning: Casting complex values to real discards the imaginary part
+  t=(x[kr-1]-x[kb-1])*const-b/fn
+/home/yun/Dropbox/Python/code/hdt.py:122: ComplexWarning: Casting complex values to real discards the imaginary part
+  gcm[0]=high
+/home/yun/Dropbox/Python/code/hdt.py:262: ComplexWarning: Casting complex values to real discards the imaginary part
+  xu=x[high-1]
+Expr 452:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 453:("log(v['area A'])", "log(v['length of kernel groove'])**log(v['compactness'])")	0.0591344832026
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 454:("log(v['area A'])", "log(v['compactness'])**log(v['length of kernel groove'])")	(0.22671295647+0.0475917807195j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 455:("log(v['area A'])+exp(v['compactness'])", "log(v['length of kernel groove'])")	0.0701907469576
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 456:("exp(v['compactness'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0701907469576
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 457:("log(v['area A'])", "log(v['length of kernel groove'])+exp(v['compactness'])")	0.0702874443672
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 458:("log(v['area A'])", "exp(v['compactness'])+log(v['length of kernel groove'])")	0.0702874443672
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 459:("log(v['area A'])-exp(v['compactness'])", "log(v['length of kernel groove'])")	0.0649122000364
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 460:("exp(v['compactness'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.0649122000364
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 461:("log(v['area A'])", "log(v['length of kernel groove'])-exp(v['compactness'])")	0.0516249430992
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 462:("log(v['area A'])", "exp(v['compactness'])-log(v['length of kernel groove'])")	0.0516249430992
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 463:("log(v['area A'])*exp(v['compactness'])", "log(v['length of kernel groove'])")	0.066760216328
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 464:("exp(v['compactness'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.066760216328
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 465:("log(v['area A'])", "log(v['length of kernel groove'])*exp(v['compactness'])")	0.0737904989186
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 466:("log(v['area A'])", "exp(v['compactness'])*log(v['length of kernel groove'])")	0.0737904989186
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 467:("log(v['area A'])/exp(v['compactness'])", "log(v['length of kernel groove'])")	0.0627225015534
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 468:("exp(v['compactness'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.0639127729305
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 469:("log(v['area A'])", "log(v['length of kernel groove'])/exp(v['compactness'])")	0.0558598783369
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 470:("log(v['area A'])", "exp(v['compactness'])/log(v['length of kernel groove'])")	0.056313427061
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 471:("log(v['area A'])**exp(v['compactness'])", "log(v['length of kernel groove'])")	0.0684011671346
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 472:("exp(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	0.066381301535
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 473:("log(v['area A'])", "log(v['length of kernel groove'])**exp(v['compactness'])")	0.0722393466078
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 474:("log(v['area A'])", "exp(v['compactness'])**log(v['length of kernel groove'])")	0.0686616934737
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 475:("log(v['area A'])+sqrt(v['compactness'])", "log(v['length of kernel groove'])")	0.0798546215422
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 476:("sqrt(v['compactness'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0798546215422
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 477:("log(v['area A'])", "log(v['length of kernel groove'])+sqrt(v['compactness'])")	0.0768937390077
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 478:("log(v['area A'])", "sqrt(v['compactness'])+log(v['length of kernel groove'])")	0.0768937390077
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 479:("log(v['area A'])-sqrt(v['compactness'])", "log(v['length of kernel groove'])")	0.0752844731443
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 480:("sqrt(v['compactness'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.0752844731443
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 481:("log(v['area A'])", "log(v['length of kernel groove'])-sqrt(v['compactness'])")	0.0685913528313
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 482:("log(v['area A'])", "sqrt(v['compactness'])-log(v['length of kernel groove'])")	0.0685913528313
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 483:("log(v['area A'])*sqrt(v['compactness'])", "log(v['length of kernel groove'])")	0.0753915816382
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 484:("sqrt(v['compactness'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.0753915816382
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 485:("log(v['area A'])", "log(v['length of kernel groove'])*sqrt(v['compactness'])")	0.0760733079579
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 486:("log(v['area A'])", "sqrt(v['compactness'])*log(v['length of kernel groove'])")	0.0760733079579
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 487:("log(v['area A'])/sqrt(v['compactness'])", "log(v['length of kernel groove'])")	0.0655972179338
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 488:("sqrt(v['compactness'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.0684365274358
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 489:("log(v['area A'])", "log(v['length of kernel groove'])/sqrt(v['compactness'])")	0.05552695827
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 490:("log(v['area A'])", "sqrt(v['compactness'])/log(v['length of kernel groove'])")	0.0559930148236
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 491:("log(v['area A'])**sqrt(v['compactness'])", "log(v['length of kernel groove'])")	0.0757755277887
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 492:("sqrt(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	0.0575002527392
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 493:("log(v['area A'])", "log(v['length of kernel groove'])**sqrt(v['compactness'])")	0.0758967810013
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 494:("log(v['area A'])", "sqrt(v['compactness'])**log(v['length of kernel groove'])")	0.0543487551419
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 495:("log(v['area A'])+v['width of kernel']", "log(v['length of kernel groove'])")	0.0650308595014
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 496:("v['width of kernel']+log(v['area A'])", "log(v['length of kernel groove'])")	0.0650308595014
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 497:("log(v['area A'])", "log(v['length of kernel groove'])+v['width of kernel']")	0.0618364331868
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 498:("log(v['area A'])", "v['width of kernel']+log(v['length of kernel groove'])")	0.0618364331868
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 499:("log(v['area A'])-v['width of kernel']", "log(v['length of kernel groove'])")	0.0573816785179
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 500:("v['width of kernel']-log(v['area A'])", "log(v['length of kernel groove'])")	0.0573816785179
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 501:("log(v['area A'])", "log(v['length of kernel groove'])-v['width of kernel']")	0.0535598498864
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 502:("log(v['area A'])", "v['width of kernel']-log(v['length of kernel groove'])")	0.0535598498864
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 503:("log(v['area A'])*v['width of kernel']", "log(v['length of kernel groove'])")	0.0643029703354
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 504:("v['width of kernel']*log(v['area A'])", "log(v['length of kernel groove'])")	0.0643029703354
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 505:("log(v['area A'])", "log(v['length of kernel groove'])*v['width of kernel']")	0.0649199453711
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 506:("log(v['area A'])", "v['width of kernel']*log(v['length of kernel groove'])")	0.0649199453711
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 507:("log(v['area A'])/v['width of kernel']", "log(v['length of kernel groove'])")	0.0629795680198
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 508:("v['width of kernel']/log(v['area A'])", "log(v['length of kernel groove'])")	0.0608488564718
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 509:("log(v['area A'])", "log(v['length of kernel groove'])/v['width of kernel']")	0.0518002015227
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 510:("log(v['area A'])", "v['width of kernel']/log(v['length of kernel groove'])")	0.0529796186298
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 511:("log(v['area A'])**v['width of kernel']", "log(v['length of kernel groove'])")	0.0592575535477
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 512:("v['width of kernel']**log(v['area A'])", "log(v['length of kernel groove'])")	0.0614989204878
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 513:("log(v['area A'])", "log(v['length of kernel groove'])**v['width of kernel']")	0.0614248431653
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 514:("log(v['area A'])", "v['width of kernel']**log(v['length of kernel groove'])")	0.0639280301635
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 515:("log(v['area A'])+log(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0715232906518
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 516:("log(v['width of kernel'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0715232906518
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 517:("log(v['area A'])", "log(v['length of kernel groove'])+log(v['width of kernel'])")	0.0726280020273
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 518:("log(v['area A'])", "log(v['width of kernel'])+log(v['length of kernel groove'])")	0.0726280020273
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 519:("log(v['area A'])-log(v['width of kernel'])", "log(v['length of kernel groove'])")	0.060536726765
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 520:("log(v['width of kernel'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.060536726765
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 521:("log(v['area A'])", "log(v['length of kernel groove'])-log(v['width of kernel'])")	0.059839477783
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 522:("log(v['area A'])", "log(v['width of kernel'])-log(v['length of kernel groove'])")	0.059839477783
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 523:("log(v['area A'])*log(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0663033350988
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 524:("log(v['width of kernel'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.0663033350988
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 525:("log(v['area A'])", "log(v['length of kernel groove'])*log(v['width of kernel'])")	0.0694192780873
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 526:("log(v['area A'])", "log(v['width of kernel'])*log(v['length of kernel groove'])")	0.0694192780873
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 527:("log(v['area A'])/log(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0589653538519
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 528:("log(v['width of kernel'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.0592385841127
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 529:("log(v['area A'])", "log(v['length of kernel groove'])/log(v['width of kernel'])")	0.0548232227688
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 530:("log(v['area A'])", "log(v['width of kernel'])/log(v['length of kernel groove'])")	0.0558326274461
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 531:("log(v['area A'])**log(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0641200098499
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 532:("log(v['width of kernel'])**log(v['area A'])", "log(v['length of kernel groove'])")	0.0612039592265
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 533:("log(v['area A'])", "log(v['length of kernel groove'])**log(v['width of kernel'])")	0.0672652170279
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 534:("log(v['area A'])", "log(v['width of kernel'])**log(v['length of kernel groove'])")	0.0583106851168
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 535:("log(v['area A'])+exp(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0615939225418
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 536:("exp(v['width of kernel'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0615939225418
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 537:("log(v['area A'])", "log(v['length of kernel groove'])+exp(v['width of kernel'])")	0.0564010044174
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 538:("log(v['area A'])", "exp(v['width of kernel'])+log(v['length of kernel groove'])")	0.0564010044174
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 539:("log(v['area A'])-exp(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0619161001557
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 540:("exp(v['width of kernel'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.0619161001557
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 541:("log(v['area A'])", "log(v['length of kernel groove'])-exp(v['width of kernel'])")	0.0565057657034
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 542:("log(v['area A'])", "exp(v['width of kernel'])-log(v['length of kernel groove'])")	0.0565057657034
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 543:("log(v['area A'])*exp(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0594728321146
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 544:("exp(v['width of kernel'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.0594728321146
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 545:("log(v['area A'])", "log(v['length of kernel groove'])*exp(v['width of kernel'])")	0.0533908534773
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 546:("log(v['area A'])", "exp(v['width of kernel'])*log(v['length of kernel groove'])")	0.0533908534773
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 547:("log(v['area A'])/exp(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0599199424762
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 548:("exp(v['width of kernel'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.0569380236843
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 549:("log(v['area A'])", "log(v['length of kernel groove'])/exp(v['width of kernel'])")	0.0563602058582
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 550:("log(v['area A'])", "exp(v['width of kernel'])/log(v['length of kernel groove'])")	0.0566183110109
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 551:("log(v['area A'])**exp(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0512445647274
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 552:("exp(v['width of kernel'])**log(v['area A'])", "log(v['length of kernel groove'])")	0.0571369325118
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 553:("log(v['area A'])", "log(v['length of kernel groove'])**exp(v['width of kernel'])")	0.045816085205
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 554:("log(v['area A'])", "exp(v['width of kernel'])**log(v['length of kernel groove'])")	0.0522536880025
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 555:("log(v['area A'])+sqrt(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0708027205443
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 556:("sqrt(v['width of kernel'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0708027205443
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 557:("log(v['area A'])", "log(v['length of kernel groove'])+sqrt(v['width of kernel'])")	0.0721476564581
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 558:("log(v['area A'])", "sqrt(v['width of kernel'])+log(v['length of kernel groove'])")	0.0721476564581
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 559:("log(v['area A'])-sqrt(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0578016022313
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 560:("sqrt(v['width of kernel'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.0578016022313
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 561:("log(v['area A'])", "log(v['length of kernel groove'])-sqrt(v['width of kernel'])")	0.0505158893829
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 562:("log(v['area A'])", "sqrt(v['width of kernel'])-log(v['length of kernel groove'])")	0.0505158893829
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 563:("log(v['area A'])*sqrt(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0709994665159
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 564:("sqrt(v['width of kernel'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.0709994665159
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 565:("log(v['area A'])", "log(v['length of kernel groove'])*sqrt(v['width of kernel'])")	0.0704232116158
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 566:("log(v['area A'])", "sqrt(v['width of kernel'])*log(v['length of kernel groove'])")	0.0704232116158
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 567:("log(v['area A'])/sqrt(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0609723751421
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 568:("sqrt(v['width of kernel'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.0606740776008
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 569:("log(v['area A'])", "log(v['length of kernel groove'])/sqrt(v['width of kernel'])")	0.0528260455702
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 570:("log(v['area A'])", "sqrt(v['width of kernel'])/log(v['length of kernel groove'])")	0.0514254353582
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 571:("log(v['area A'])**sqrt(v['width of kernel'])", "log(v['length of kernel groove'])")	0.0674294674246
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 572:("sqrt(v['width of kernel'])**log(v['area A'])", "log(v['length of kernel groove'])")	0.0638604915253
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 573:("log(v['area A'])", "log(v['length of kernel groove'])**sqrt(v['width of kernel'])")	0.0702619603341
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 574:("log(v['area A'])", "sqrt(v['width of kernel'])**log(v['length of kernel groove'])")	0.0666061308896
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 575:("log(v['area A'])+v['asymmetry coefficient']", "log(v['length of kernel groove'])")	0.0589680523231
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 576:("v['asymmetry coefficient']+log(v['area A'])", "log(v['length of kernel groove'])")	0.0589680523231
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 577:("log(v['area A'])", "log(v['length of kernel groove'])+v['asymmetry coefficient']")	0.0572691600912
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 578:("log(v['area A'])", "v['asymmetry coefficient']+log(v['length of kernel groove'])")	0.0572691600912
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 579:("log(v['area A'])-v['asymmetry coefficient']", "log(v['length of kernel groove'])")	0.0585120628558
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 580:("v['asymmetry coefficient']-log(v['area A'])", "log(v['length of kernel groove'])")	0.0585120628558
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 581:("log(v['area A'])", "log(v['length of kernel groove'])-v['asymmetry coefficient']")	0.0592537421969
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 582:("log(v['area A'])", "v['asymmetry coefficient']-log(v['length of kernel groove'])")	0.0592537421969
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 583:("log(v['area A'])*v['asymmetry coefficient']", "log(v['length of kernel groove'])")	0.0609363192501
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 584:("v['asymmetry coefficient']*log(v['area A'])", "log(v['length of kernel groove'])")	0.0609363192501
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 585:("log(v['area A'])", "log(v['length of kernel groove'])*v['asymmetry coefficient']")	0.0565931218233
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 586:("log(v['area A'])", "v['asymmetry coefficient']*log(v['length of kernel groove'])")	0.0565931218233
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 587:("log(v['area A'])/v['asymmetry coefficient']", "log(v['length of kernel groove'])")	0.0607666813219
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 588:("v['asymmetry coefficient']/log(v['area A'])", "log(v['length of kernel groove'])")	0.0568740606499
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 589:("log(v['area A'])", "log(v['length of kernel groove'])/v['asymmetry coefficient']")	0.053106842756
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 590:("log(v['area A'])", "v['asymmetry coefficient']/log(v['length of kernel groove'])")	0.0592813066533
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 591:("log(v['area A'])**v['asymmetry coefficient']", "log(v['length of kernel groove'])")	0.055856090456
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 592:("v['asymmetry coefficient']**log(v['area A'])", "log(v['length of kernel groove'])")	0.0583941166139
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 593:("log(v['area A'])", "log(v['length of kernel groove'])**v['asymmetry coefficient']")	0.0540998712647
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 594:("log(v['area A'])", "v['asymmetry coefficient']**log(v['length of kernel groove'])")	0.0524729248391
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 595:("log(v['area A'])+log(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0571891297
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 596:("log(v['asymmetry coefficient'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0571891297
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 597:("log(v['area A'])", "log(v['length of kernel groove'])+log(v['asymmetry coefficient'])")	0.0509933539256
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 598:("log(v['area A'])", "log(v['asymmetry coefficient'])+log(v['length of kernel groove'])")	0.0509933539256
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 599:("log(v['area A'])-log(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0582027510783
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 600:("log(v['asymmetry coefficient'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.0582027510783
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 601:("log(v['area A'])", "log(v['length of kernel groove'])-log(v['asymmetry coefficient'])")	0.0517615890182
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 602:("log(v['area A'])", "log(v['asymmetry coefficient'])-log(v['length of kernel groove'])")	0.0517615890182
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 603:("log(v['area A'])*log(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0565484452979
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 604:("log(v['asymmetry coefficient'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.0565484452979
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 605:("log(v['area A'])", "log(v['length of kernel groove'])*log(v['asymmetry coefficient'])")	0.0570168519582
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 606:("log(v['area A'])", "log(v['asymmetry coefficient'])*log(v['length of kernel groove'])")	0.0570168519582
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 607:("log(v['area A'])/log(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0592450144678
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 608:("log(v['asymmetry coefficient'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.0613707017164
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 609:("log(v['area A'])", "log(v['length of kernel groove'])/log(v['asymmetry coefficient'])")	0.0507811381597
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 610:("log(v['area A'])", "log(v['asymmetry coefficient'])/log(v['length of kernel groove'])")	0.0509532429841
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 611:("log(v['area A'])**log(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0618655202914
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 612:("log(v['asymmetry coefficient'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.0593401907324+0j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 613:("log(v['area A'])", "log(v['length of kernel groove'])**log(v['asymmetry coefficient'])")	0.0562713725221
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 614:("log(v['area A'])", "log(v['asymmetry coefficient'])**log(v['length of kernel groove'])")	(0.0535655878461+0j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 615:("log(v['area A'])+exp(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0545393250285
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 616:("exp(v['asymmetry coefficient'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0545393250285
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 617:("log(v['area A'])", "log(v['length of kernel groove'])+exp(v['asymmetry coefficient'])")	0.0497883266529
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 618:("log(v['area A'])", "exp(v['asymmetry coefficient'])+log(v['length of kernel groove'])")	0.0497883266529
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 619:("log(v['area A'])-exp(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0557302697201
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 620:("exp(v['asymmetry coefficient'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.0557302697201
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 621:("log(v['area A'])", "log(v['length of kernel groove'])-exp(v['asymmetry coefficient'])")	0.0499657777403
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 622:("log(v['area A'])", "exp(v['asymmetry coefficient'])-log(v['length of kernel groove'])")	0.0499657777403
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 623:("log(v['area A'])*exp(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0522716198253
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 624:("exp(v['asymmetry coefficient'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.0522716198253
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 625:("log(v['area A'])", "log(v['length of kernel groove'])*exp(v['asymmetry coefficient'])")	0.0486562826606
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 626:("log(v['area A'])", "exp(v['asymmetry coefficient'])*log(v['length of kernel groove'])")	0.0486562826606
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 627:("log(v['area A'])/exp(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0574982158806
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 628:("exp(v['asymmetry coefficient'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.058923604316
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 629:("log(v['area A'])", "log(v['length of kernel groove'])/exp(v['asymmetry coefficient'])")	0.0554797842933
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 630:("log(v['area A'])", "exp(v['asymmetry coefficient'])/log(v['length of kernel groove'])")	0.052037280546
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 631:("exp(v['asymmetry coefficient'])**log(v['area A'])", "log(v['length of kernel groove'])")	0.0533067269332
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 632:("log(v['area A'])", "exp(v['asymmetry coefficient'])**log(v['length of kernel groove'])")	0.0542308570104
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 633:("log(v['area A'])+sqrt(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0615655172729
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 634:("sqrt(v['asymmetry coefficient'])+log(v['area A'])", "log(v['length of kernel groove'])")	0.0615655172729
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 635:("log(v['area A'])", "log(v['length of kernel groove'])+sqrt(v['asymmetry coefficient'])")	0.0519606633575
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 636:("log(v['area A'])", "sqrt(v['asymmetry coefficient'])+log(v['length of kernel groove'])")	0.0519606633575
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 637:("log(v['area A'])-sqrt(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0585730221739
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 638:("sqrt(v['asymmetry coefficient'])-log(v['area A'])", "log(v['length of kernel groove'])")	0.0585730221739
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 639:("log(v['area A'])", "log(v['length of kernel groove'])-sqrt(v['asymmetry coefficient'])")	0.0498133283636
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 640:("log(v['area A'])", "sqrt(v['asymmetry coefficient'])-log(v['length of kernel groove'])")	0.0498133283636
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 641:("log(v['area A'])*sqrt(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.054763869542
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 642:("sqrt(v['asymmetry coefficient'])*log(v['area A'])", "log(v['length of kernel groove'])")	0.054763869542
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 643:("log(v['area A'])", "log(v['length of kernel groove'])*sqrt(v['asymmetry coefficient'])")	0.0522986991867
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 644:("log(v['area A'])", "sqrt(v['asymmetry coefficient'])*log(v['length of kernel groove'])")	0.0522986991867
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 645:("log(v['area A'])/sqrt(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0615000143638
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 646:("sqrt(v['asymmetry coefficient'])/log(v['area A'])", "log(v['length of kernel groove'])")	0.0593470764007
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 647:("log(v['area A'])", "log(v['length of kernel groove'])/sqrt(v['asymmetry coefficient'])")	0.0485787742562
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 648:("log(v['area A'])", "sqrt(v['asymmetry coefficient'])/log(v['length of kernel groove'])")	0.0494768352583
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 649:("log(v['area A'])**sqrt(v['asymmetry coefficient'])", "log(v['length of kernel groove'])")	0.0539044618122
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 650:("sqrt(v['asymmetry coefficient'])**log(v['area A'])", "log(v['length of kernel groove'])")	0.0627355942834
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 651:("log(v['area A'])", "log(v['length of kernel groove'])**sqrt(v['asymmetry coefficient'])")	0.0563353925379
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 652:("log(v['area A'])", "sqrt(v['asymmetry coefficient'])**log(v['length of kernel groove'])")	0.0587964648138
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 653:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+v['perimeter P']")	(0.241479553206-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 654:("log(v['compactness'])**log(v['area A'])", "v['perimeter P']+log(v['length of kernel groove'])")	(0.241479553206-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 655:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-v['perimeter P']")	(0.239724262612-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 656:("log(v['compactness'])**log(v['area A'])", "v['perimeter P']-log(v['length of kernel groove'])")	(0.239724262612-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 657:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*v['perimeter P']")	(0.245263958847-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 658:("log(v['compactness'])**log(v['area A'])", "v['perimeter P']*log(v['length of kernel groove'])")	(0.245263958847-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 659:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/v['perimeter P']")	(0.243219635506-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 660:("log(v['compactness'])**log(v['area A'])", "v['perimeter P']/log(v['length of kernel groove'])")	(0.246593325127-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 661:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])**v['perimeter P']")	(0.234196017314-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 662:("log(v['compactness'])**log(v['area A'])", "v['perimeter P']**log(v['length of kernel groove'])")	(0.238639156139-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 663:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+log(v['perimeter P'])")	(0.24749055243-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 664:("log(v['compactness'])**log(v['area A'])", "log(v['perimeter P'])+log(v['length of kernel groove'])")	(0.24749055243-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 665:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-log(v['perimeter P'])")	(0.238243683368-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 666:("log(v['compactness'])**log(v['area A'])", "log(v['perimeter P'])-log(v['length of kernel groove'])")	(0.238243683368-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 667:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*log(v['perimeter P'])")	(0.249154800442-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 668:("log(v['compactness'])**log(v['area A'])", "log(v['perimeter P'])*log(v['length of kernel groove'])")	(0.249154800442-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 669:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/log(v['perimeter P'])")	(0.235284896612-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 670:("log(v['compactness'])**log(v['area A'])", "log(v['perimeter P'])/log(v['length of kernel groove'])")	(0.234879068872-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 671:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])**log(v['perimeter P'])")	(0.248794287261-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 672:("log(v['compactness'])**log(v['area A'])", "log(v['perimeter P'])**log(v['length of kernel groove'])")	(0.244477491112-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 673:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+exp(v['perimeter P'])")	(0.230407662697-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 674:("log(v['compactness'])**log(v['area A'])", "exp(v['perimeter P'])+log(v['length of kernel groove'])")	(0.230407662697-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 675:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-exp(v['perimeter P'])")	(0.230407661493-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 676:("log(v['compactness'])**log(v['area A'])", "exp(v['perimeter P'])-log(v['length of kernel groove'])")	(0.230407661493-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 677:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*exp(v['perimeter P'])")	(0.231900099975-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 678:("log(v['compactness'])**log(v['area A'])", "exp(v['perimeter P'])*log(v['length of kernel groove'])")	(0.231900099975-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 679:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/exp(v['perimeter P'])")	(0.229708790702-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 680:("log(v['compactness'])**log(v['area A'])", "exp(v['perimeter P'])/log(v['length of kernel groove'])")	(0.229314681222-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 681:("log(v['compactness'])**log(v['area A'])", "exp(v['perimeter P'])**log(v['length of kernel groove'])")	(0.228861498128-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 682:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+sqrt(v['perimeter P'])")	(0.246885178554-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 683:("log(v['compactness'])**log(v['area A'])", "sqrt(v['perimeter P'])+log(v['length of kernel groove'])")	(0.246885178554-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 684:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-sqrt(v['perimeter P'])")	(0.242563826381-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 685:("log(v['compactness'])**log(v['area A'])", "sqrt(v['perimeter P'])-log(v['length of kernel groove'])")	(0.242563826381-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 686:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*sqrt(v['perimeter P'])")	(0.245959360632-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 687:("log(v['compactness'])**log(v['area A'])", "sqrt(v['perimeter P'])*log(v['length of kernel groove'])")	(0.245959360632-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 688:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/sqrt(v['perimeter P'])")	(0.23310655797-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 689:("log(v['compactness'])**log(v['area A'])", "sqrt(v['perimeter P'])/log(v['length of kernel groove'])")	(0.232973468736-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 690:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])**sqrt(v['perimeter P'])")	(0.243737644801-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 691:("log(v['compactness'])**log(v['area A'])", "sqrt(v['perimeter P'])**log(v['length of kernel groove'])")	(0.242715073356-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 692:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+v['width of kernel']")	(0.241978565498-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 693:("log(v['compactness'])**log(v['area A'])", "v['width of kernel']+log(v['length of kernel groove'])")	(0.241978565498-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 694:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-v['width of kernel']")	(0.233701982197-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 695:("log(v['compactness'])**log(v['area A'])", "v['width of kernel']-log(v['length of kernel groove'])")	(0.233701982197-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 696:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*v['width of kernel']")	(0.245062077682-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 697:("log(v['compactness'])**log(v['area A'])", "v['width of kernel']*log(v['length of kernel groove'])")	(0.245062077682-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 698:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/v['width of kernel']")	(0.231942333834-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 699:("log(v['compactness'])**log(v['area A'])", "v['width of kernel']/log(v['length of kernel groove'])")	(0.233121750941-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 700:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])**v['width of kernel']")	(0.241566975476-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 701:("log(v['compactness'])**log(v['area A'])", "v['width of kernel']**log(v['length of kernel groove'])")	(0.244070162474-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 702:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+log(v['width of kernel'])")	(0.252770134338-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 703:("log(v['compactness'])**log(v['area A'])", "log(v['width of kernel'])+log(v['length of kernel groove'])")	(0.252770134338-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 704:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-log(v['width of kernel'])")	(0.239981610094-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 705:("log(v['compactness'])**log(v['area A'])", "log(v['width of kernel'])-log(v['length of kernel groove'])")	(0.239981610094-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 706:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*log(v['width of kernel'])")	(0.249561410398-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 707:("log(v['compactness'])**log(v['area A'])", "log(v['width of kernel'])*log(v['length of kernel groove'])")	(0.249561410398-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 708:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/log(v['width of kernel'])")	(0.23496535508-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 709:("log(v['compactness'])**log(v['area A'])", "log(v['width of kernel'])/log(v['length of kernel groove'])")	(0.235974759757-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 710:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])**log(v['width of kernel'])")	(0.247407349339-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 711:("log(v['compactness'])**log(v['area A'])", "log(v['width of kernel'])**log(v['length of kernel groove'])")	(0.238452817428-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 712:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+exp(v['width of kernel'])")	(0.236543136728-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 713:("log(v['compactness'])**log(v['area A'])", "exp(v['width of kernel'])+log(v['length of kernel groove'])")	(0.236543136728-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 714:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-exp(v['width of kernel'])")	(0.236647898014-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 715:("log(v['compactness'])**log(v['area A'])", "exp(v['width of kernel'])-log(v['length of kernel groove'])")	(0.236647898014-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 716:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*exp(v['width of kernel'])")	(0.233532985788-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 717:("log(v['compactness'])**log(v['area A'])", "exp(v['width of kernel'])*log(v['length of kernel groove'])")	(0.233532985788-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 718:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/exp(v['width of kernel'])")	(0.236502338169-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 719:("log(v['compactness'])**log(v['area A'])", "exp(v['width of kernel'])/log(v['length of kernel groove'])")	(0.236760443322-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 720:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])**exp(v['width of kernel'])")	(0.225958217516-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 721:("log(v['compactness'])**log(v['area A'])", "exp(v['width of kernel'])**log(v['length of kernel groove'])")	(0.232395820313-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 722:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+sqrt(v['width of kernel'])")	(0.252289788769-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 723:("log(v['compactness'])**log(v['area A'])", "sqrt(v['width of kernel'])+log(v['length of kernel groove'])")	(0.252289788769-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 724:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-sqrt(v['width of kernel'])")	(0.230658021694-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 725:("log(v['compactness'])**log(v['area A'])", "sqrt(v['width of kernel'])-log(v['length of kernel groove'])")	(0.230658021694-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 726:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*sqrt(v['width of kernel'])")	(0.250565343927-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 727:("log(v['compactness'])**log(v['area A'])", "sqrt(v['width of kernel'])*log(v['length of kernel groove'])")	(0.250565343927-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 728:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/sqrt(v['width of kernel'])")	(0.232968177881-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 729:("log(v['compactness'])**log(v['area A'])", "sqrt(v['width of kernel'])/log(v['length of kernel groove'])")	(0.231567567669-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 730:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])**sqrt(v['width of kernel'])")	(0.250404092645-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 731:("log(v['compactness'])**log(v['area A'])", "sqrt(v['width of kernel'])**log(v['length of kernel groove'])")	(0.2467482632-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 732:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+v['asymmetry coefficient']")	(0.237411292402-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 733:("log(v['compactness'])**log(v['area A'])", "v['asymmetry coefficient']+log(v['length of kernel groove'])")	(0.237411292402-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 734:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-v['asymmetry coefficient']")	(0.239395874508-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 735:("log(v['compactness'])**log(v['area A'])", "v['asymmetry coefficient']-log(v['length of kernel groove'])")	(0.239395874508-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 736:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*v['asymmetry coefficient']")	(0.236735254134-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 737:("log(v['compactness'])**log(v['area A'])", "v['asymmetry coefficient']*log(v['length of kernel groove'])")	(0.236735254134-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 738:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/v['asymmetry coefficient']")	(0.233248975067-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 739:("log(v['compactness'])**log(v['area A'])", "v['asymmetry coefficient']/log(v['length of kernel groove'])")	(0.239423438964-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 740:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])**v['asymmetry coefficient']")	(0.234242003576-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 741:("log(v['compactness'])**log(v['area A'])", "v['asymmetry coefficient']**log(v['length of kernel groove'])")	(0.23261505715-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 742:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+log(v['asymmetry coefficient'])")	(0.231135486236-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 743:("log(v['compactness'])**log(v['area A'])", "log(v['asymmetry coefficient'])+log(v['length of kernel groove'])")	(0.231135486236-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 744:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-log(v['asymmetry coefficient'])")	(0.231903721329-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 745:("log(v['compactness'])**log(v['area A'])", "log(v['asymmetry coefficient'])-log(v['length of kernel groove'])")	(0.231903721329-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 746:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*log(v['asymmetry coefficient'])")	(0.237158984269-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 747:("log(v['compactness'])**log(v['area A'])", "log(v['asymmetry coefficient'])*log(v['length of kernel groove'])")	(0.237158984269-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 748:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/log(v['asymmetry coefficient'])")	(0.230923270471-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 749:("log(v['compactness'])**log(v['area A'])", "log(v['asymmetry coefficient'])/log(v['length of kernel groove'])")	(0.231095375295-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 750:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])**log(v['asymmetry coefficient'])")	(0.236413504833-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 751:("log(v['compactness'])**log(v['area A'])", "log(v['asymmetry coefficient'])**log(v['length of kernel groove'])")	(0.233707720157-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 752:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+exp(v['asymmetry coefficient'])")	(0.229930458964-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 753:("log(v['compactness'])**log(v['area A'])", "exp(v['asymmetry coefficient'])+log(v['length of kernel groove'])")	(0.229930458964-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 754:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-exp(v['asymmetry coefficient'])")	(0.230107910051-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 755:("log(v['compactness'])**log(v['area A'])", "exp(v['asymmetry coefficient'])-log(v['length of kernel groove'])")	(0.230107910051-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 756:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*exp(v['asymmetry coefficient'])")	(0.228798414971-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 757:("log(v['compactness'])**log(v['area A'])", "exp(v['asymmetry coefficient'])*log(v['length of kernel groove'])")	(0.228798414971-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 758:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/exp(v['asymmetry coefficient'])")	(0.235621916604-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 759:("log(v['compactness'])**log(v['area A'])", "exp(v['asymmetry coefficient'])/log(v['length of kernel groove'])")	(0.232179412857-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 760:("log(v['compactness'])**log(v['area A'])", "exp(v['asymmetry coefficient'])**log(v['length of kernel groove'])")	(0.234372989321-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 761:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])+sqrt(v['asymmetry coefficient'])")	(0.232102795668-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 762:("log(v['compactness'])**log(v['area A'])", "sqrt(v['asymmetry coefficient'])+log(v['length of kernel groove'])")	(0.232102795668-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 763:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])-sqrt(v['asymmetry coefficient'])")	(0.229955460674-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 764:("log(v['compactness'])**log(v['area A'])", "sqrt(v['asymmetry coefficient'])-log(v['length of kernel groove'])")	(0.229955460674-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 765:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])*sqrt(v['asymmetry coefficient'])")	(0.232440831498-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 766:("log(v['compactness'])**log(v['area A'])", "sqrt(v['asymmetry coefficient'])*log(v['length of kernel groove'])")	(0.232440831498-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 767:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])/sqrt(v['asymmetry coefficient'])")	(0.228720906567-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 768:("log(v['compactness'])**log(v['area A'])", "sqrt(v['asymmetry coefficient'])/log(v['length of kernel groove'])")	(0.229618967569-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 769:("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])**sqrt(v['asymmetry coefficient'])")	(0.236477524849-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+Expr 770:("log(v['compactness'])**log(v['area A'])", "sqrt(v['asymmetry coefficient'])**log(v['length of kernel groove'])")	(0.238938597125-0.217788584724j)
+	Current best("log(v['compactness'])**log(v['area A'])", "log(v['length of kernel groove'])")	(0.256481488658-0.217788584724j)
+/usr/lib/python3/dist-packages/numpy/core/numeric.py:321: ComplexWarning: Casting complex values to real discards the imaginary part
+  return array(a, dtype, copy=False, order=order)
