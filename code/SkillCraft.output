@@ -1,0 +1,1120 @@
+Expr 1:("v['APM']", "v['SelectByHotkeys']")	0.0080482318299
+	Current best("v['APM']", "v['SelectByHotkeys']")	0.0080482318299
+Expr 2:("v['APM']", "sqrt(v['SelectByHotkeys'])")	0.00819293307961
+	Current best("v['APM']", "sqrt(v['SelectByHotkeys'])")	0.00819293307961
+Expr 3:("log(v['APM'])", "v['SelectByHotkeys']")	0.00838138900162
+	Current best("log(v['APM'])", "v['SelectByHotkeys']")	0.00838138900162
+Expr 4:("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 5:("sqrt(v['APM'])", "v['SelectByHotkeys']")	0.00788679071254
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 6:("sqrt(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00803149196225
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 7:("v['APM']", "v['AssignToHotkeys']")	0.00761280526144
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 8:("v['APM']", "sqrt(v['AssignToHotkeys'])")	0.00700321155369
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 9:("log(v['APM'])", "v['AssignToHotkeys']")	0.00794596243316
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 10:("log(v['APM'])", "sqrt(v['AssignToHotkeys'])")	0.00733636872541
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 11:("sqrt(v['APM'])", "v['AssignToHotkeys']")	0.00745136414408
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 12:("sqrt(v['APM'])", "sqrt(v['AssignToHotkeys'])")	0.00684177043633
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 13:("v['APM']", "v['NumberOfPACs']")	0.00775510341241
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 14:("v['APM']", "log(v['NumberOfPACs'])")	0.00764496040979
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 15:("v['APM']", "sqrt(v['NumberOfPACs'])")	0.0074594770787
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 16:("log(v['APM'])", "v['NumberOfPACs']")	0.00808826058412
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 17:("log(v['APM'])", "log(v['NumberOfPACs'])")	0.00797811758151
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 18:("log(v['APM'])", "sqrt(v['NumberOfPACs'])")	0.00779263425042
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 19:("sqrt(v['APM'])", "v['NumberOfPACs']")	0.00759366229504
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 20:("sqrt(v['APM'])", "log(v['NumberOfPACs'])")	0.00748351929243
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 21:("sqrt(v['APM'])", "sqrt(v['NumberOfPACs'])")	0.00729803596134
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 22:("v['APM']", "v['GapBetweenPACs']")	0.00730391742151
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 23:("v['APM']", "log(v['GapBetweenPACs'])")	0.00713742254327
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 24:("v['APM']", "sqrt(v['GapBetweenPACs'])")	0.00732040112047
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 25:("log(v['APM'])", "v['GapBetweenPACs']")	0.00763707459323
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 26:("log(v['APM'])", "log(v['GapBetweenPACs'])")	0.00747057971499
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 27:("log(v['APM'])", "sqrt(v['GapBetweenPACs'])")	0.00765355829219
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 28:("sqrt(v['APM'])", "v['GapBetweenPACs']")	0.00714247630415
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 29:("sqrt(v['APM'])", "log(v['GapBetweenPACs'])")	0.0069759814259
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 30:("sqrt(v['APM'])", "sqrt(v['GapBetweenPACs'])")	0.00715896000311
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 31:("v['APM']", "v['ActionLatency']")	0.00724733505598
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 32:("v['APM']", "log(v['ActionLatency'])")	0.00846850729235
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 33:("v['APM']", "sqrt(v['ActionLatency'])")	0.00763593933457
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 34:("log(v['APM'])", "v['ActionLatency']")	0.00758049222769
+	Current best("log(v['APM'])", "sqrt(v['SelectByHotkeys'])")	0.00852609025133
+Expr 35:("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 36:("log(v['APM'])", "sqrt(v['ActionLatency'])")	0.00796909650629
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 37:("sqrt(v['APM'])", "v['ActionLatency']")	0.00708589393861
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 38:("sqrt(v['APM'])", "log(v['ActionLatency'])")	0.00830706617499
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 39:("sqrt(v['APM'])", "sqrt(v['ActionLatency'])")	0.00747449821721
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 40:("v['APM']", "v['ActionsInPAC']")	0.00704822860035
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 41:("v['APM']", "log(v['ActionsInPAC'])")	0.00693266559727
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 42:("v['APM']", "sqrt(v['ActionsInPAC'])")	0.00697170023916
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 43:("log(v['APM'])", "v['ActionsInPAC']")	0.00738138577207
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 44:("log(v['APM'])", "log(v['ActionsInPAC'])")	0.00726582276899
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 45:("log(v['APM'])", "sqrt(v['ActionsInPAC'])")	0.00730485741087
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 46:("sqrt(v['APM'])", "v['ActionsInPAC']")	0.00688678748298
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 47:("sqrt(v['APM'])", "log(v['ActionsInPAC'])")	0.00677122447991
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 48:("sqrt(v['APM'])", "sqrt(v['ActionsInPAC'])")	0.00681025912179
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 49:("v['APM']", "v['WorkersMade']")	0.00704903541152
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 50:("v['APM']", "log(v['WorkersMade'])")	0.00753996894017
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 51:("v['APM']", "sqrt(v['WorkersMade'])")	0.00727510742769
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 52:("log(v['APM'])", "v['WorkersMade']")	0.00738219258323
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 53:("log(v['APM'])", "log(v['WorkersMade'])")	0.00787312611189
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 54:("log(v['APM'])", "sqrt(v['WorkersMade'])")	0.00760826459941
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 55:("sqrt(v['APM'])", "v['WorkersMade']")	0.00688759429415
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 56:("sqrt(v['APM'])", "log(v['WorkersMade'])")	0.00737852782281
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 57:("sqrt(v['APM'])", "sqrt(v['WorkersMade'])")	0.00711366631033
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 58:("v['SelectByHotkeys']", "v['AssignToHotkeys']")	0.00816813112744
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 59:("v['SelectByHotkeys']", "sqrt(v['AssignToHotkeys'])")	0.0075585374197
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 60:("sqrt(v['SelectByHotkeys'])", "v['AssignToHotkeys']")	0.00831283237716
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 61:("sqrt(v['SelectByHotkeys'])", "sqrt(v['AssignToHotkeys'])")	0.00770323866941
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 62:("v['SelectByHotkeys']", "v['NumberOfPACs']")	0.00831042927841
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 63:("v['SelectByHotkeys']", "log(v['NumberOfPACs'])")	0.0082002862758
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 64:("v['SelectByHotkeys']", "sqrt(v['NumberOfPACs'])")	0.00801480294471
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 65:("sqrt(v['SelectByHotkeys'])", "v['NumberOfPACs']")	0.00845513052812
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 66:("sqrt(v['SelectByHotkeys'])", "log(v['NumberOfPACs'])")	0.00834498752551
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 67:("sqrt(v['SelectByHotkeys'])", "sqrt(v['NumberOfPACs'])")	0.00815950419442
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 68:("v['SelectByHotkeys']", "v['GapBetweenPACs']")	0.00785924328752
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 69:("v['SelectByHotkeys']", "log(v['GapBetweenPACs'])")	0.00769274840927
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 70:("v['SelectByHotkeys']", "sqrt(v['GapBetweenPACs'])")	0.00787572698647
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 71:("sqrt(v['SelectByHotkeys'])", "v['GapBetweenPACs']")	0.00800394453723
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 72:("sqrt(v['SelectByHotkeys'])", "log(v['GapBetweenPACs'])")	0.00783744965899
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 73:("sqrt(v['SelectByHotkeys'])", "sqrt(v['GapBetweenPACs'])")	0.00802042823619
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 74:("v['SelectByHotkeys']", "v['ActionLatency']")	0.00780266092198
+	Current best("log(v['APM'])", "log(v['ActionLatency'])")	0.00880166446407
+Expr 75:("v['SelectByHotkeys']", "log(v['ActionLatency'])")	0.00902383315835
+	Current best("v['SelectByHotkeys']", "log(v['ActionLatency'])")	0.00902383315835
+Expr 76:("v['SelectByHotkeys']", "sqrt(v['ActionLatency'])")	0.00819126520057
+	Current best("v['SelectByHotkeys']", "log(v['ActionLatency'])")	0.00902383315835
+Expr 77:("sqrt(v['SelectByHotkeys'])", "v['ActionLatency']")	0.00794736217169
+	Current best("v['SelectByHotkeys']", "log(v['ActionLatency'])")	0.00902383315835
+Expr 78:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 79:("sqrt(v['SelectByHotkeys'])", "sqrt(v['ActionLatency'])")	0.00833596645029
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 80:("v['SelectByHotkeys']", "v['ActionsInPAC']")	0.00760355446635
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 81:("v['SelectByHotkeys']", "log(v['ActionsInPAC'])")	0.00748799146328
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 82:("v['SelectByHotkeys']", "sqrt(v['ActionsInPAC'])")	0.00752702610516
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 83:("sqrt(v['SelectByHotkeys'])", "v['ActionsInPAC']")	0.00774825571607
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 84:("sqrt(v['SelectByHotkeys'])", "log(v['ActionsInPAC'])")	0.00763269271299
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 85:("sqrt(v['SelectByHotkeys'])", "sqrt(v['ActionsInPAC'])")	0.00767172735487
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 86:("v['SelectByHotkeys']", "v['WorkersMade']")	0.00760436127752
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 87:("v['SelectByHotkeys']", "log(v['WorkersMade'])")	0.00809529480617
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 88:("v['SelectByHotkeys']", "sqrt(v['WorkersMade'])")	0.0078304332937
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 89:("sqrt(v['SelectByHotkeys'])", "v['WorkersMade']")	0.00774906252723
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 90:("sqrt(v['SelectByHotkeys'])", "log(v['WorkersMade'])")	0.00823999605589
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 91:("sqrt(v['SelectByHotkeys'])", "sqrt(v['WorkersMade'])")	0.00797513454341
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 92:("v['AssignToHotkeys']", "v['NumberOfPACs']")	0.00787500270995
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 93:("v['AssignToHotkeys']", "log(v['NumberOfPACs'])")	0.00776485970734
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 94:("v['AssignToHotkeys']", "sqrt(v['NumberOfPACs'])")	0.00757937637625
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 95:("sqrt(v['AssignToHotkeys'])", "v['NumberOfPACs']")	0.0072654090022
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 96:("sqrt(v['AssignToHotkeys'])", "log(v['NumberOfPACs'])")	0.00715526599959
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 97:("sqrt(v['AssignToHotkeys'])", "sqrt(v['NumberOfPACs'])")	0.0069697826685
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 98:("v['AssignToHotkeys']", "v['GapBetweenPACs']")	0.00742381671906
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 99:("v['AssignToHotkeys']", "log(v['GapBetweenPACs'])")	0.00725732184081
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 100:("v['AssignToHotkeys']", "sqrt(v['GapBetweenPACs'])")	0.00744030041801
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 101:("sqrt(v['AssignToHotkeys'])", "v['GapBetweenPACs']")	0.00681422301131
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 102:("sqrt(v['AssignToHotkeys'])", "log(v['GapBetweenPACs'])")	0.00664772813307
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 103:("sqrt(v['AssignToHotkeys'])", "sqrt(v['GapBetweenPACs'])")	0.00683070671027
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 104:("v['AssignToHotkeys']", "v['ActionLatency']")	0.00736723435352
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 105:("v['AssignToHotkeys']", "log(v['ActionLatency'])")	0.00858840658989
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 106:("v['AssignToHotkeys']", "sqrt(v['ActionLatency'])")	0.00775583863211
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 107:("sqrt(v['AssignToHotkeys'])", "v['ActionLatency']")	0.00675764064577
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 108:("sqrt(v['AssignToHotkeys'])", "log(v['ActionLatency'])")	0.00797881288215
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 109:("sqrt(v['AssignToHotkeys'])", "sqrt(v['ActionLatency'])")	0.00714624492437
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 110:("v['AssignToHotkeys']", "v['ActionsInPAC']")	0.00716812789789
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 111:("v['AssignToHotkeys']", "log(v['ActionsInPAC'])")	0.00705256489482
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 112:("v['AssignToHotkeys']", "sqrt(v['ActionsInPAC'])")	0.0070915995367
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 113:("sqrt(v['AssignToHotkeys'])", "v['ActionsInPAC']")	0.00655853419015
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 114:("sqrt(v['AssignToHotkeys'])", "log(v['ActionsInPAC'])")	0.00644297118707
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 115:("sqrt(v['AssignToHotkeys'])", "sqrt(v['ActionsInPAC'])")	0.00648200582895
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 116:("v['AssignToHotkeys']", "v['WorkersMade']")	0.00716893470906
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 117:("v['AssignToHotkeys']", "log(v['WorkersMade'])")	0.00765986823771
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 118:("v['AssignToHotkeys']", "sqrt(v['WorkersMade'])")	0.00739500672524
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 119:("sqrt(v['AssignToHotkeys'])", "v['WorkersMade']")	0.00655934100131
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 120:("sqrt(v['AssignToHotkeys'])", "log(v['WorkersMade'])")	0.00705027452997
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 121:("sqrt(v['AssignToHotkeys'])", "sqrt(v['WorkersMade'])")	0.00678541301749
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 122:("v['NumberOfPACs']", "v['GapBetweenPACs']")	0.00756611487002
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 123:("v['NumberOfPACs']", "log(v['GapBetweenPACs'])")	0.00739961999178
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 124:("v['NumberOfPACs']", "sqrt(v['GapBetweenPACs'])")	0.00758259856898
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 125:("log(v['NumberOfPACs'])", "v['GapBetweenPACs']")	0.00745597186741
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 126:("log(v['NumberOfPACs'])", "log(v['GapBetweenPACs'])")	0.00728947698916
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 127:("log(v['NumberOfPACs'])", "sqrt(v['GapBetweenPACs'])")	0.00747245556637
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 128:("sqrt(v['NumberOfPACs'])", "v['GapBetweenPACs']")	0.00727048853632
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 129:("sqrt(v['NumberOfPACs'])", "log(v['GapBetweenPACs'])")	0.00710399365808
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 130:("sqrt(v['NumberOfPACs'])", "sqrt(v['GapBetweenPACs'])")	0.00728697223528
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 131:("v['NumberOfPACs']", "v['ActionLatency']")	0.00750953250448
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 132:("v['NumberOfPACs']", "log(v['ActionLatency'])")	0.00873070474086
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 133:("v['NumberOfPACs']", "sqrt(v['ActionLatency'])")	0.00789813678308
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 134:("log(v['NumberOfPACs'])", "v['ActionLatency']")	0.00739938950187
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 135:("log(v['NumberOfPACs'])", "log(v['ActionLatency'])")	0.00862056173825
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 136:("log(v['NumberOfPACs'])", "sqrt(v['ActionLatency'])")	0.00778799378047
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 137:("sqrt(v['NumberOfPACs'])", "v['ActionLatency']")	0.00721390617078
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 138:("sqrt(v['NumberOfPACs'])", "log(v['ActionLatency'])")	0.00843507840716
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 139:("sqrt(v['NumberOfPACs'])", "sqrt(v['ActionLatency'])")	0.00760251044938
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 140:("v['NumberOfPACs']", "v['ActionsInPAC']")	0.00731042604886
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 141:("v['NumberOfPACs']", "log(v['ActionsInPAC'])")	0.00719486304578
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 142:("v['NumberOfPACs']", "sqrt(v['ActionsInPAC'])")	0.00723389768766
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 143:("log(v['NumberOfPACs'])", "v['ActionsInPAC']")	0.00720028304624
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 144:("log(v['NumberOfPACs'])", "log(v['ActionsInPAC'])")	0.00708472004317
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 145:("log(v['NumberOfPACs'])", "sqrt(v['ActionsInPAC'])")	0.00712375468505
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 146:("sqrt(v['NumberOfPACs'])", "v['ActionsInPAC']")	0.00701479971516
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 147:("sqrt(v['NumberOfPACs'])", "log(v['ActionsInPAC'])")	0.00689923671208
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 148:("sqrt(v['NumberOfPACs'])", "sqrt(v['ActionsInPAC'])")	0.00693827135396
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 149:("v['NumberOfPACs']", "v['WorkersMade']")	0.00731123286002
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 150:("v['NumberOfPACs']", "log(v['WorkersMade'])")	0.00780216638868
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 151:("v['NumberOfPACs']", "sqrt(v['WorkersMade'])")	0.0075373048762
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 152:("log(v['NumberOfPACs'])", "v['WorkersMade']")	0.00720108985741
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 153:("log(v['NumberOfPACs'])", "log(v['WorkersMade'])")	0.00769202338607
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 154:("log(v['NumberOfPACs'])", "sqrt(v['WorkersMade'])")	0.00742716187359
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 155:("sqrt(v['NumberOfPACs'])", "v['WorkersMade']")	0.00701560652632
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 156:("sqrt(v['NumberOfPACs'])", "log(v['WorkersMade'])")	0.00750654005498
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 157:("sqrt(v['NumberOfPACs'])", "sqrt(v['WorkersMade'])")	0.0072416785425
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 158:("v['GapBetweenPACs']", "v['ActionLatency']")	0.00705834651359
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 159:("v['GapBetweenPACs']", "log(v['ActionLatency'])")	0.00827951874997
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 160:("v['GapBetweenPACs']", "sqrt(v['ActionLatency'])")	0.00744695079218
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 161:("log(v['GapBetweenPACs'])", "v['ActionLatency']")	0.00689185163535
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 162:("log(v['GapBetweenPACs'])", "log(v['ActionLatency'])")	0.00811302387172
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 163:("log(v['GapBetweenPACs'])", "sqrt(v['ActionLatency'])")	0.00728045591394
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 164:("sqrt(v['GapBetweenPACs'])", "v['ActionLatency']")	0.00707483021255
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 165:("sqrt(v['GapBetweenPACs'])", "log(v['ActionLatency'])")	0.00829600244892
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 166:("sqrt(v['GapBetweenPACs'])", "sqrt(v['ActionLatency'])")	0.00746343449114
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 167:("v['GapBetweenPACs']", "v['ActionsInPAC']")	0.00685924005796
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 168:("v['GapBetweenPACs']", "log(v['ActionsInPAC'])")	0.00674367705489
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 169:("v['GapBetweenPACs']", "sqrt(v['ActionsInPAC'])")	0.00678271169677
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 170:("log(v['GapBetweenPACs'])", "v['ActionsInPAC']")	0.00669274517972
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 171:("log(v['GapBetweenPACs'])", "log(v['ActionsInPAC'])")	0.00657718217664
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 172:("log(v['GapBetweenPACs'])", "sqrt(v['ActionsInPAC'])")	0.00661621681853
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 173:("sqrt(v['GapBetweenPACs'])", "v['ActionsInPAC']")	0.00687572375692
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 174:("sqrt(v['GapBetweenPACs'])", "log(v['ActionsInPAC'])")	0.00676016075385
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 175:("sqrt(v['GapBetweenPACs'])", "sqrt(v['ActionsInPAC'])")	0.00679919539573
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 176:("v['GapBetweenPACs']", "v['WorkersMade']")	0.00686004686913
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 177:("v['GapBetweenPACs']", "log(v['WorkersMade'])")	0.00735098039779
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 178:("v['GapBetweenPACs']", "sqrt(v['WorkersMade'])")	0.00708611888531
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 179:("log(v['GapBetweenPACs'])", "v['WorkersMade']")	0.00669355199089
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 180:("log(v['GapBetweenPACs'])", "log(v['WorkersMade'])")	0.00718448551954
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 181:("log(v['GapBetweenPACs'])", "sqrt(v['WorkersMade'])")	0.00691962400707
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 182:("sqrt(v['GapBetweenPACs'])", "v['WorkersMade']")	0.00687653056809
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 183:("sqrt(v['GapBetweenPACs'])", "log(v['WorkersMade'])")	0.00736746409674
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 184:("sqrt(v['GapBetweenPACs'])", "sqrt(v['WorkersMade'])")	0.00710260258427
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 185:("v['ActionLatency']", "v['ActionsInPAC']")	0.00680265769243
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 186:("v['ActionLatency']", "log(v['ActionsInPAC'])")	0.00668709468935
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 187:("v['ActionLatency']", "sqrt(v['ActionsInPAC'])")	0.00672612933123
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 188:("log(v['ActionLatency'])", "v['ActionsInPAC']")	0.0080238299288
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 189:("log(v['ActionLatency'])", "log(v['ActionsInPAC'])")	0.00790826692573
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 190:("log(v['ActionLatency'])", "sqrt(v['ActionsInPAC'])")	0.00794730156761
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 191:("sqrt(v['ActionLatency'])", "v['ActionsInPAC']")	0.00719126197102
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 192:("sqrt(v['ActionLatency'])", "log(v['ActionsInPAC'])")	0.00707569896794
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 193:("sqrt(v['ActionLatency'])", "sqrt(v['ActionsInPAC'])")	0.00711473360983
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 194:("v['ActionLatency']", "v['WorkersMade']")	0.00680346450359
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 195:("v['ActionLatency']", "log(v['WorkersMade'])")	0.00729439803225
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 196:("v['ActionLatency']", "sqrt(v['WorkersMade'])")	0.00702953651977
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 197:("log(v['ActionLatency'])", "v['WorkersMade']")	0.00802463673997
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 198:("log(v['ActionLatency'])", "log(v['WorkersMade'])")	0.00851557026863
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 199:("log(v['ActionLatency'])", "sqrt(v['WorkersMade'])")	0.00825070875615
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 200:("sqrt(v['ActionLatency'])", "v['WorkersMade']")	0.00719206878219
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 201:("sqrt(v['ActionLatency'])", "log(v['WorkersMade'])")	0.00768300231084
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 202:("sqrt(v['ActionLatency'])", "sqrt(v['WorkersMade'])")	0.00741814079837
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 203:("v['ActionsInPAC']", "v['WorkersMade']")	0.00660435804797
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 204:("v['ActionsInPAC']", "log(v['WorkersMade'])")	0.00709529157662
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 205:("v['ActionsInPAC']", "sqrt(v['WorkersMade'])")	0.00683043006415
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 206:("log(v['ActionsInPAC'])", "v['WorkersMade']")	0.00648879504489
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 207:("log(v['ActionsInPAC'])", "log(v['WorkersMade'])")	0.00697972857355
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 208:("log(v['ActionsInPAC'])", "sqrt(v['WorkersMade'])")	0.00671486706107
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 209:("sqrt(v['ActionsInPAC'])", "v['WorkersMade']")	0.00652782968677
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 210:("sqrt(v['ActionsInPAC'])", "log(v['WorkersMade'])")	0.00701876321543
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 211:("sqrt(v['ActionsInPAC'])", "sqrt(v['WorkersMade'])")	0.00675390170295
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 212:("sqrt(v['SelectByHotkeys'])+v['APM']", "log(v['ActionLatency'])")	0.00847161421351
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 213:("v['APM']+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00847161421351
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 214:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+v['APM']")	0.00835732948647
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 215:("sqrt(v['SelectByHotkeys'])", "v['APM']+log(v['ActionLatency'])")	0.00835732948647
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 216:("sqrt(v['SelectByHotkeys'])-v['APM']", "log(v['ActionLatency'])")	0.00855087102268
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 217:("v['APM']-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00855087102268
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 218:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-v['APM']")	0.00822784675227
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 219:("sqrt(v['SelectByHotkeys'])", "v['APM']-log(v['ActionLatency'])")	0.00822784675227
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 220:("sqrt(v['SelectByHotkeys'])*v['APM']", "log(v['ActionLatency'])")	0.00827360646718
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 221:("v['APM']*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00827360646718
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 222:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*v['APM']")	0.00783556333546
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 223:("sqrt(v['SelectByHotkeys'])", "v['APM']*log(v['ActionLatency'])")	0.00783556333546
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 224:("sqrt(v['SelectByHotkeys'])/v['APM']", "log(v['ActionLatency'])")	0.00906830793925
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 225:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/v['APM']")	0.00881287764904
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 226:("sqrt(v['SelectByHotkeys'])", "v['APM']/log(v['ActionLatency'])")	0.00838703529874
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 227:("sqrt(v['SelectByHotkeys'])+log(v['APM'])", "log(v['ActionLatency'])")	0.00849073500444
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 228:("log(v['APM'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00849073500444
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00916853440807
+Expr 229:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+log(v['APM'])")	0.00957741355868
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+log(v['APM'])")	0.00957741355868
+Expr 230:("sqrt(v['SelectByHotkeys'])", "log(v['APM'])+log(v['ActionLatency'])")	0.00957741355868
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+log(v['APM'])")	0.00957741355868
+Expr 231:("sqrt(v['SelectByHotkeys'])-log(v['APM'])", "log(v['ActionLatency'])")	0.00846667551272
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+log(v['APM'])")	0.00957741355868
+Expr 232:("log(v['APM'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00846667551272
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+log(v['APM'])")	0.00957741355868
+Expr 233:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-log(v['APM'])")	0.00858658743865
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+log(v['APM'])")	0.00957741355868
+Expr 234:("sqrt(v['SelectByHotkeys'])", "log(v['APM'])-log(v['ActionLatency'])")	0.00858658743865
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+log(v['APM'])")	0.00957741355868
+Expr 235:("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 236:("log(v['APM'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00961115003331
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 237:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*log(v['APM'])")	0.00840465141381
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 238:("sqrt(v['SelectByHotkeys'])", "log(v['APM'])*log(v['ActionLatency'])")	0.00840465141381
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 239:("sqrt(v['SelectByHotkeys'])/log(v['APM'])", "log(v['ActionLatency'])")	0.00833747822416
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 240:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/log(v['APM'])")	0.00886118823754
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 241:("sqrt(v['SelectByHotkeys'])", "log(v['APM'])/log(v['ActionLatency'])")	0.00833499169558
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 242:("sqrt(v['SelectByHotkeys'])+sqrt(v['APM'])", "log(v['ActionLatency'])")	0.00844190963006
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 243:("sqrt(v['APM'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00844190963006
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 244:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+sqrt(v['APM'])")	0.0079294733063
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 245:("sqrt(v['SelectByHotkeys'])", "sqrt(v['APM'])+log(v['ActionLatency'])")	0.0079294733063
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 246:("sqrt(v['SelectByHotkeys'])-sqrt(v['APM'])", "log(v['ActionLatency'])")	0.00836676263985
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 247:("sqrt(v['APM'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00836676263985
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 248:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-sqrt(v['APM'])")	0.00840848286364
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 249:("sqrt(v['SelectByHotkeys'])", "sqrt(v['APM'])-log(v['ActionLatency'])")	0.00840848286364
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 250:("sqrt(v['SelectByHotkeys'])*sqrt(v['APM'])", "log(v['ActionLatency'])")	0.00859995811204
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 251:("sqrt(v['APM'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00859995811204
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 252:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*sqrt(v['APM'])")	0.00772155993151
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 253:("sqrt(v['SelectByHotkeys'])", "sqrt(v['APM'])*log(v['ActionLatency'])")	0.00772155993151
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 254:("sqrt(v['SelectByHotkeys'])/sqrt(v['APM'])", "log(v['ActionLatency'])")	0.00790255626342
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['APM'])", "log(v['ActionLatency'])")	0.00961115003331
+Expr 255:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 256:("sqrt(v['SelectByHotkeys'])", "sqrt(v['APM'])/log(v['ActionLatency'])")	0.00869518313095
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 257:("sqrt(v['SelectByHotkeys'])+v['AssignToHotkeys']", "log(v['ActionLatency'])")	0.00904170356974
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 258:("v['AssignToHotkeys']+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00904170356974
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 259:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+v['AssignToHotkeys']")	0.00914275543102
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 260:("sqrt(v['SelectByHotkeys'])", "v['AssignToHotkeys']+log(v['ActionLatency'])")	0.00914275543102
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 261:("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])")	0.00947986622142
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 262:("v['AssignToHotkeys']-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00947986622142
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 263:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-v['AssignToHotkeys']")	0.00931329260172
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 264:("sqrt(v['SelectByHotkeys'])", "v['AssignToHotkeys']-log(v['ActionLatency'])")	0.00931329260172
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 265:("sqrt(v['SelectByHotkeys'])*v['AssignToHotkeys']", "log(v['ActionLatency'])")	0.0085109495137
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 266:("v['AssignToHotkeys']*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.0085109495137
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 267:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*v['AssignToHotkeys']")	0.00896038568009
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 268:("sqrt(v['SelectByHotkeys'])", "v['AssignToHotkeys']*log(v['ActionLatency'])")	0.00896038568009
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 269:("sqrt(v['SelectByHotkeys'])", "v['AssignToHotkeys']/log(v['ActionLatency'])")	0.00806404668569
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 270:("sqrt(v['SelectByHotkeys'])+sqrt(v['AssignToHotkeys'])", "log(v['ActionLatency'])")	0.00886914365832
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 271:("sqrt(v['AssignToHotkeys'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00886914365832
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 272:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+sqrt(v['AssignToHotkeys'])")	0.00912056432015
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 273:("sqrt(v['SelectByHotkeys'])", "sqrt(v['AssignToHotkeys'])+log(v['ActionLatency'])")	0.00912056432015
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 274:("sqrt(v['SelectByHotkeys'])-sqrt(v['AssignToHotkeys'])", "log(v['ActionLatency'])")	0.00827133527484
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 275:("sqrt(v['AssignToHotkeys'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00827133527484
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 276:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-sqrt(v['AssignToHotkeys'])")	0.0100338038439
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 277:("sqrt(v['SelectByHotkeys'])", "sqrt(v['AssignToHotkeys'])-log(v['ActionLatency'])")	0.0100338038439
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 278:("sqrt(v['SelectByHotkeys'])*sqrt(v['AssignToHotkeys'])", "log(v['ActionLatency'])")	0.0087128387019
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 279:("sqrt(v['AssignToHotkeys'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.0087128387019
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 280:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*sqrt(v['AssignToHotkeys'])")	0.00801268034574
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 281:("sqrt(v['SelectByHotkeys'])", "sqrt(v['AssignToHotkeys'])*log(v['ActionLatency'])")	0.00801268034574
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 282:("sqrt(v['SelectByHotkeys'])", "sqrt(v['AssignToHotkeys'])/log(v['ActionLatency'])")	0.00733233358634
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 283:("sqrt(v['SelectByHotkeys'])+v['NumberOfPACs']", "log(v['ActionLatency'])")	0.00797861211334
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 284:("v['NumberOfPACs']+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00797861211334
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 285:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+v['NumberOfPACs']")	0.00909995637321
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 286:("sqrt(v['SelectByHotkeys'])", "v['NumberOfPACs']+log(v['ActionLatency'])")	0.00909995637321
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 287:("sqrt(v['SelectByHotkeys'])-v['NumberOfPACs']", "log(v['ActionLatency'])")	0.00904354370247
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 288:("v['NumberOfPACs']-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00904354370247
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 289:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-v['NumberOfPACs']")	0.00933984568383
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 290:("sqrt(v['SelectByHotkeys'])", "v['NumberOfPACs']-log(v['ActionLatency'])")	0.00933984568383
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 291:("sqrt(v['SelectByHotkeys'])*v['NumberOfPACs']", "log(v['ActionLatency'])")	0.00791731209865
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 292:("v['NumberOfPACs']*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00791731209865
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 293:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*v['NumberOfPACs']")	0.00755220407475
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 294:("sqrt(v['SelectByHotkeys'])", "v['NumberOfPACs']*log(v['ActionLatency'])")	0.00755220407475
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 295:("sqrt(v['SelectByHotkeys'])/v['NumberOfPACs']", "log(v['ActionLatency'])")	0.00725946776127
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 296:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/v['NumberOfPACs']")	0.00843742937608
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 297:("sqrt(v['SelectByHotkeys'])", "v['NumberOfPACs']/log(v['ActionLatency'])")	0.00816245190177
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 298:("sqrt(v['SelectByHotkeys'])+log(v['NumberOfPACs'])", "log(v['ActionLatency'])")	0.00809381963853
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 299:("log(v['NumberOfPACs'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00809381963853
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 300:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+log(v['NumberOfPACs'])")	0.00831617650852
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 301:("sqrt(v['SelectByHotkeys'])", "log(v['NumberOfPACs'])+log(v['ActionLatency'])")	0.00831617650852
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 302:("sqrt(v['SelectByHotkeys'])-log(v['NumberOfPACs'])", "log(v['ActionLatency'])")	0.00796386369118
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 303:("log(v['NumberOfPACs'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00796386369118
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 304:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-log(v['NumberOfPACs'])")	0.00791931392834
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 305:("sqrt(v['SelectByHotkeys'])", "log(v['NumberOfPACs'])-log(v['ActionLatency'])")	0.00791931392834
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 306:("sqrt(v['SelectByHotkeys'])*log(v['NumberOfPACs'])", "log(v['ActionLatency'])")	0.00794797256487
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 307:("log(v['NumberOfPACs'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00794797256487
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 308:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*log(v['NumberOfPACs'])")	0.00773584127202
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 309:("sqrt(v['SelectByHotkeys'])", "log(v['NumberOfPACs'])*log(v['ActionLatency'])")	0.00773584127202
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 310:("sqrt(v['SelectByHotkeys'])/log(v['NumberOfPACs'])", "log(v['ActionLatency'])")	0.00810270806599
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 311:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/log(v['NumberOfPACs'])")	0.00988728438168
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 312:("sqrt(v['SelectByHotkeys'])", "log(v['NumberOfPACs'])/log(v['ActionLatency'])")	0.00948517459756
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 313:("sqrt(v['SelectByHotkeys'])+sqrt(v['NumberOfPACs'])", "log(v['ActionLatency'])")	0.00865857174632
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 314:("sqrt(v['NumberOfPACs'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00865857174632
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 315:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+sqrt(v['NumberOfPACs'])")	0.00877518725524
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 316:("sqrt(v['SelectByHotkeys'])", "sqrt(v['NumberOfPACs'])+log(v['ActionLatency'])")	0.00877518725524
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 317:("sqrt(v['SelectByHotkeys'])-sqrt(v['NumberOfPACs'])", "log(v['ActionLatency'])")	0.00842052309811
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 318:("sqrt(v['NumberOfPACs'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00842052309811
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 319:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-sqrt(v['NumberOfPACs'])")	0.00935719157144
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 320:("sqrt(v['SelectByHotkeys'])", "sqrt(v['NumberOfPACs'])-log(v['ActionLatency'])")	0.00935719157144
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 321:("sqrt(v['SelectByHotkeys'])*sqrt(v['NumberOfPACs'])", "log(v['ActionLatency'])")	0.00807453527373
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 322:("sqrt(v['NumberOfPACs'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00807453527373
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 323:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*sqrt(v['NumberOfPACs'])")	0.00736410357887
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 324:("sqrt(v['SelectByHotkeys'])", "sqrt(v['NumberOfPACs'])*log(v['ActionLatency'])")	0.00736410357887
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 325:("sqrt(v['SelectByHotkeys'])/sqrt(v['NumberOfPACs'])", "log(v['ActionLatency'])")	0.00751525527208
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 326:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['NumberOfPACs'])")	0.00854078020286
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 327:("sqrt(v['SelectByHotkeys'])", "sqrt(v['NumberOfPACs'])/log(v['ActionLatency'])")	0.00836539550295
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 328:("sqrt(v['SelectByHotkeys'])+v['GapBetweenPACs']", "log(v['ActionLatency'])")	0.0085421467535
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 329:("v['GapBetweenPACs']+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.0085421467535
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 330:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+v['GapBetweenPACs']")	0.00764602567701
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 331:("sqrt(v['SelectByHotkeys'])", "v['GapBetweenPACs']+log(v['ActionLatency'])")	0.00764602567701
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 332:("sqrt(v['SelectByHotkeys'])-v['GapBetweenPACs']", "log(v['ActionLatency'])")	0.00854716688826
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 333:("v['GapBetweenPACs']-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00854716688826
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 334:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-v['GapBetweenPACs']")	0.00767552712642
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 335:("sqrt(v['SelectByHotkeys'])", "v['GapBetweenPACs']-log(v['ActionLatency'])")	0.00767552712642
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 336:("sqrt(v['SelectByHotkeys'])*v['GapBetweenPACs']", "log(v['ActionLatency'])")	0.00756856310075
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 337:("v['GapBetweenPACs']*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00756856310075
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 338:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*v['GapBetweenPACs']")	0.00824308143246
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 339:("sqrt(v['SelectByHotkeys'])", "v['GapBetweenPACs']*log(v['ActionLatency'])")	0.00824308143246
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 340:("sqrt(v['SelectByHotkeys'])/v['GapBetweenPACs']", "log(v['ActionLatency'])")	0.00802784954066
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 341:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/v['GapBetweenPACs']")	0.00834273345874
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 342:("sqrt(v['SelectByHotkeys'])", "v['GapBetweenPACs']/log(v['ActionLatency'])")	0.00815521108254
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 343:("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])")	0.00949391485844
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 344:("log(v['GapBetweenPACs'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00949391485844
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 345:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+log(v['GapBetweenPACs'])")	0.00734852498924
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 346:("sqrt(v['SelectByHotkeys'])", "log(v['GapBetweenPACs'])+log(v['ActionLatency'])")	0.00734852498924
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 347:("sqrt(v['SelectByHotkeys'])-log(v['GapBetweenPACs'])", "log(v['ActionLatency'])")	0.00811309630345
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 348:("log(v['GapBetweenPACs'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00811309630345
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 349:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-log(v['GapBetweenPACs'])")	0.00714572500128
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 350:("sqrt(v['SelectByHotkeys'])", "log(v['GapBetweenPACs'])-log(v['ActionLatency'])")	0.00714572500128
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 351:("sqrt(v['SelectByHotkeys'])*log(v['GapBetweenPACs'])", "log(v['ActionLatency'])")	0.00773016705825
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 352:("log(v['GapBetweenPACs'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00773016705825
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 353:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*log(v['GapBetweenPACs'])")	0.00741004736598
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 354:("sqrt(v['SelectByHotkeys'])", "log(v['GapBetweenPACs'])*log(v['ActionExpr 356:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/log(v['GapBetweenPACs'])")	0.00795484884538
+Latency'])")	0.00741004736598
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 355:("sqrt(v['SelectByHotkeys'])/log(v['GapBetweenPACs'])", "log(v['ActionLatency'])")	0.00802600839285
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 357:("sqrt(v['SelectByHotkeys'])", "log(v['GapBetweenPACs'])/log(v['ActionLatency'])")	0.00828729644101
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 358:("sqrt(v['SelectByHotkeys'])+sqrt(v['GapBetweenPACs'])", "log(v['ActionLatency'])")	0.00937844910858
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 359:("sqrt(v['GapBetweenPACs'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00937844910858
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 360:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+sqrt(v['GapBetweenPACs'])")	0.00833421481176
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 361:("sqrt(v['SelectByHotkeys'])", "sqrt(v['GapBetweenPACs'])+log(v['ActionLatency'])")	0.00833421481176
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 362:("sqrt(v['SelectByHotkeys'])-sqrt(v['GapBetweenPACs'])", "log(v['ActionLatency'])")	0.00860827380318
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 363:("sqrt(v['GapBetweenPACs'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00860827380318
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 364:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-sqrt(v['GapBetweenPACs'])")	0.00774457208022
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 365:("sqrt(v['SelectByHotkeys'])", "sqrt(v['GapBetweenPACs'])-log(v['ActionLatency'])")	0.00774457208022
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 366:("sqrt(v['SelectByHotkeys'])*sqrt(v['GapBetweenPACs'])", "log(v['ActionLatency'])")	0.00851376030213
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 367:("sqrt(v['GapBetweenPACs'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00851376030213
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 368:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*sqrt(v['GapBetweenPACs'])")	0.00881000032263
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 369:("sqrt(v['SelectByHotkeys'])", "sqrt(v['GapBetweenPACs'])*log(v['ActionLatency'])")	0.00881000032263
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 370:("sqrt(v['SelectByHotkeys'])/sqrt(v['GapBetweenPACs'])", "log(v['ActionLatency'])")	0.00813390435209
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 371:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['GapBetweenPACs'])")	0.007667001208
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 372:("sqrt(v['SelectByHotkeys'])", "sqrt(v['GapBetweenPACs'])/log(v['ActionLatency'])")	0.00757110291256
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 373:("sqrt(v['SelectByHotkeys'])+v['ActionsInPAC']", "log(v['ActionLatency'])")	0.00755964453484
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 374:("v['ActionsInPAC']+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00755964453484
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 375:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+v['ActionsInPAC']")	0.00873383678867
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 376:("sqrt(v['SelectByHotkeys'])", "v['ActionsInPAC']+log(v['ActionLatency'])")	0.00873383678867
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 377:("sqrt(v['SelectByHotkeys'])-v['ActionsInPAC']", "log(v['ActionLatency'])")	0.0080188716245
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 378:("v['ActionsInPAC']-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.0080188716245
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 379:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-v['ActionsInPAC']")	0.0074599818382
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 380:("sqrt(v['SelectByHotkeys'])", "v['ActionsInPAC']-log(v['ActionLatency'])")	0.0074599818382
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 381:("sqrt(v['SelectByHotkeys'])*v['ActionsInPAC']", "log(v['ActionLatency'])")	0.0074762229397
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 382:("v['ActionsInPAC']*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.0074762229397
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 383:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*v['ActionsInPAC']")	0.00868058225099
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 384:("sqrt(v['SelectByHotkeys'])", "v['ActionsInPAC']*log(v['ActionLatency'])")	0.00868058225099
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 385:("sqrt(v['SelectByHotkeys'])/v['ActionsInPAC']", "log(v['ActionLatency'])")	0.00767814399258
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 386:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/v['ActionsInPAC']")	0.00815551221522
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 387:("sqrt(v['SelectByHotkeys'])", "v['ActionsInPAC']/log(v['ActionLatency'])")	0.00756503122447
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 388:("sqrt(v['SelectByHotkeys'])+log(v['ActionsInPAC'])", "log(v['ActionLatency'])")	0.00881129349944
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 389:("log(v['ActionsInPAC'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00881129349944
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 390:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+log(v['ActionsInPAC'])")	0.00944700407293
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 391:("sqrt(v['SelectByHotkeys'])", "log(v['ActionsInPAC'])+log(v['ActionLatency'])")	0.00944700407293
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 392:("sqrt(v['SelectByHotkeys'])-log(v['ActionsInPAC'])", "log(v['ActionLatency'])")	0.00889804186674
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 393:("log(v['ActionsInPAC'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00889804186674
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 394:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-log(v['ActionsInPAC'])")	0.00723088128793
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 395:("sqrt(v['SelectByHotkeys'])", "log(v['ActionsInPAC'])-log(v['ActionLatency'])")	0.00723088128793
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 396:("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])")	0.00995181641852
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 397:("log(v['ActionsInPAC'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00995181641852
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 398:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*log(v['ActionsInPAC'])")	0.00849800195978
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 399:("sqrt(v['SelectByHotkeys'])", "log(v['ActionsInPAC'])*log(v['ActionLatency'])")	0.00849800195978
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 400:("sqrt(v['SelectByHotkeys'])/log(v['ActionsInPAC'])", "log(v['ActionLatency'])")	0.00746681798806
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 401:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/log(v['ActionsInPAC'])")	0.00830362500912
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 402:("sqrt(v['SelectByHotkeys'])", "log(v['ActionsInPAC'])/log(v['ActionLatency'])")	0.00842391227468
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 403:("sqrt(v['SelectByHotkeys'])+sqrt(v['ActionsInPAC'])", "log(v['ActionLatency'])")	0.00898869409686
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 404:("sqrt(v['ActionsInPAC'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00898869409686
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 405:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+sqrt(v['ActionsInPAC'])")	0.00865577421181
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 406:("sqrt(v['SelectByHotkeys'])", "sqrt(v['ActionsInPAC'])+log(v['ActionLatency'])")	0.00865577421181
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 407:("sqrt(v['SelectByHotkeys'])-sqrt(v['ActionsInPAC'])", "log(v['ActionLatency'])")	0.00864052523293
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 408:("sqrt(v['ActionsInPAC'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00864052523293
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 409:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-sqrt(v['ActionsInPAC'])")	0.00798671071525
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 410:("sqrt(v['SelectByHotkeys'])", "sqrt(v['ActionsInPAC'])-log(v['ActionLatency'])")	0.00798671071525
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 411:("sqrt(v['SelectByHotkeys'])*sqrt(v['ActionsInPAC'])", "log(v['ActionLatency'])")	0.0087071152025
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 412:("sqrt(v['ActionsInPAC'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.0087071152025
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 413:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*sqrt(v['ActionsInPAC'])")	0.00801647060027
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 414:("sqrt(v['SelectByHotkeys'])", "sqrt(v['ActionsInPAC'])*log(v['ActionLatency'])")	0.00801647060027
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 415:("sqrt(v['SelectByHotkeys'])/sqrt(v['ActionsInPAC'])", "log(v['ActionLatency'])")	0.00747144145898
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 416:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['ActionsInPAC'])")	0.00767194571393
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 417:("sqrt(v['SelectByHotkeys'])", "sqrt(v['ActionsInPAC'])/log(v['ActionLatency'])")	0.00791071791953
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 418:("sqrt(v['SelectByHotkeys'])+v['WorkersMade']", "log(v['ActionLatency'])")	0.00802565102087
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 419:("v['WorkersMade']+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00802565102087
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 420:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+v['WorkersMade']")	0.00914764169713
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 421:("sqrt(v['SelectByHotkeys'])", "v['WorkersMade']+log(v['ActionLatency'])")	0.00914764169713
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 422:("sqrt(v['SelectByHotkeys'])-v['WorkersMade']", "log(v['ActionLatency'])")	0.00888339236
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 423:("v['WorkersMade']-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00888339236
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 424:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-v['WorkersMade']")	0.00925974371941
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 425:("sqrt(v['SelectByHotkeys'])", "v['WorkersMade']-log(v['ActionLatency'])")	0.00925974371941
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 426:("sqrt(v['SelectByHotkeys'])*v['WorkersMade']", "log(v['ActionLatency'])")	0.00975924865036
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 427:("v['WorkersMade']*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00975924865036
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 428:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*v['WorkersMade']")	0.00925934854499
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 429:("sqrt(v['SelectByHotkeys'])", "v['WorkersMade']*log(v['ActionLatency'])")	0.00925934854499
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 430:("sqrt(v['SelectByHotkeys'])/v['WorkersMade']", "log(v['ActionLatency'])")	0.00766471957636
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 431:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/v['WorkersMade']")	0.0079836171851
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 432:("sqrt(v['SelectByHotkeys'])", "v['WorkersMade']/log(v['ActionLatency'])")	0.00855545556283
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 433:("sqrt(v['SelectByHotkeys'])+log(v['WorkersMade'])", "log(v['ActionLatency'])")	0.00793220980891
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 434:("log(v['WorkersMade'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00793220980891
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 435:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+log(v['WorkersMade'])")	0.00838047009605
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 436:("sqrt(v['SelectByHotkeys'])", "log(v['WorkersMade'])+log(v['ActionLatency'])")	0.00838047009605
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 437:("sqrt(v['SelectByHotkeys'])-log(v['WorkersMade'])", "log(v['ActionLatency'])")	0.00782618793725
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 438:("log(v['WorkersMade'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00782618793725
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 439:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-log(v['WorkersMade'])")	0.00859413420758
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 440:("sqrt(v['SelectByHotkeys'])", "log(v['WorkersMade'])-log(v['ActionLatency'])")	0.00859413420758
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 441:("sqrt(v['SelectByHotkeys'])*log(v['WorkersMade'])", "log(v['ActionLatency'])")	0.00789729997825
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 442:("log(v['WorkersMade'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00789729997825
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 443:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*log(v['WorkersMade'])")	0.00803697000418
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 444:("sqrt(v['SelectByHotkeys'])", "log(v['WorkersMade'])*log(v['ActionLatency'])")	0.00803697000418
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 445:("sqrt(v['SelectByHotkeys'])/log(v['WorkersMade'])", "log(v['ActionLatency'])")	0.00849395801092
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 446:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/log(v['WorkersMade'])")	0.00802417937137
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 447:("sqrt(v['SelectByHotkeys'])", "log(v['WorkersMade'])/log(v['ActionLatency'])")	0.00830638331646
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 448:("sqrt(v['SelectByHotkeys'])+sqrt(v['WorkersMade'])", "log(v['ActionLatency'])")	0.00882083339635
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 449:("sqrt(v['WorkersMade'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00882083339635
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 450:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])+sqrt(v['WorkersMade'])")	0.00953709941095
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 451:("sqrt(v['SelectByHotkeys'])", "sqrt(v['WorkersMade'])+log(v['ActionLatency'])")	0.00953709941095
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 452:("sqrt(v['SelectByHotkeys'])-sqrt(v['WorkersMade'])", "log(v['ActionLatency'])")	0.00822844944491
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 453:("sqrt(v['WorkersMade'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00822844944491
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 454:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])-sqrt(v['WorkersMade'])")	0.00882548937245
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 455:("sqrt(v['SelectByHotkeys'])", "sqrt(v['WorkersMade'])-log(v['ActionLatency'])")	0.00882548937245
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 456:("sqrt(v['SelectByHotkeys'])*sqrt(v['WorkersMade'])", "log(v['ActionLatency'])")	0.00918208022665
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 457:("sqrt(v['WorkersMade'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])")	0.00918208022665
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 458:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])*sqrt(v['WorkersMade'])")	0.00754663696045
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 459:("sqrt(v['SelectByHotkeys'])", "sqrt(v['WorkersMade'])*log(v['ActionLatency'])")	0.00754663696045
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 460:("sqrt(v['SelectByHotkeys'])/sqrt(v['WorkersMade'])", "log(v['ActionLatency'])")	0.0085380497703
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 461:("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['WorkersMade'])")	0.00785350295858
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 462:("sqrt(v['SelectByHotkeys'])", "sqrt(v['WorkersMade'])/log(v['ActionLatency'])")	0.00745648335631
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 463:("sqrt(v['SelectByHotkeys'])+v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.010142483502
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 464:("v['AssignToHotkeys']+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.010142483502
+	Current best("sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102693143403
+Expr 465:("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 466:("v['AssignToHotkeys']-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 467:("sqrt(v['SelectByHotkeys'])*v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00961172944595
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 468:("v['AssignToHotkeys']*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00961172944595
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 469:("sqrt(v['SelectByHotkeys'])+sqrt(v['AssignToHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00996992359058
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 470:("sqrt(v['AssignToHotkeys'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00996992359058
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 471:("sqrt(v['SelectByHotkeys'])-sqrt(v['AssignToHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00937211520709
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 472:("sqrt(v['AssignToHotkeys'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00937211520709
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 473:("sqrt(v['SelectByHotkeys'])*sqrt(v['AssignToHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00981361863416
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 474:("sqrt(v['AssignToHotkeys'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00981361863416
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 475:("sqrt(v['SelectByHotkeys'])+v['NumberOfPACs']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0090793920456
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 476:("v['NumberOfPACs']+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0090793920456
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 477:("sqrt(v['SelectByHotkeys'])-v['NumberOfPACs']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0101443236347
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 478:("v['NumberOfPACs']-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0101443236347
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 479:("sqrt(v['SelectByHotkeys'])*v['NumberOfPACs']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00901809203091
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 480:("v['NumberOfPACs']*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00901809203091
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 481:("sqrt(v['SelectByHotkeys'])/v['NumberOfPACs']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00836024769353
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 482:("sqrt(v['SelectByHotkeys'])+log(v['NumberOfPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00919459957079
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 483:("log(v['NumberOfPACs'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00919459957079
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 484:("sqrt(v['SelectByHotkeys'])-log(v['NumberOfPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00906464362344
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 485:("log(v['NumberOfPACs'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00906464362344
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 486:("sqrt(v['SelectByHotkeys'])*log(v['NumberOfPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00904875249713
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 487:("log(v['NumberOfPACs'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00904875249713
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 488:("sqrt(v['SelectByHotkeys'])/log(v['NumberOfPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00920348799825
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 489:("sqrt(v['SelectByHotkeys'])+sqrt(v['NumberOfPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00975935167858
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 490:("sqrt(v['NumberOfPACs'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00975935167858
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 491:("sqrt(v['SelectByHotkeys'])-sqrt(v['NumberOfPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00952130303036
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 492:("sqrt(v['NumberOfPACs'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00952130303036
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 493:("sqrt(v['SelectByHotkeys'])*sqrt(v['NumberOfPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00917531520599
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 494:("sqrt(v['NumberOfPACs'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00917531520599
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 495:("sqrt(v['SelectByHotkeys'])/sqrt(v['NumberOfPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00861603520434
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 496:("sqrt(v['SelectByHotkeys'])+v['GapBetweenPACs']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00964292668575
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 497:("v['GapBetweenPACs']+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00964292668575
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 498:("sqrt(v['SelectByHotkeys'])-v['GapBetweenPACs']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00964794682052
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 499:("v['GapBetweenPACs']-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00964794682052
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 500:("sqrt(v['SelectByHotkeys'])*v['GapBetweenPACs']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00866934303301
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 501:("v['GapBetweenPACs']*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00866934303301
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 502:("sqrt(v['SelectByHotkeys'])/v['GapBetweenPACs']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00912862947292
+	Current best("sqrt(v['SelectByHotkeys'])-v['AssignToHotkeys']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105806461537
+Expr 503:("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 504:("log(v['GapBetweenPACs'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 505:("sqrt(v['SelectByHotkeys'])-log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0092138762357
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 506:("log(v['GapBetweenPACs'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0092138762357
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 507:("sqrt(v['SelectByHotkeys'])*log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00883094699051
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 508:("log(v['GapBetweenPACs'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00883094699051
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 509:("sqrt(v['SelectByHotkeys'])/log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00912678832511
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 510:("sqrt(v['SelectByHotkeys'])+sqrt(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0104792290408
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 511:("sqrt(v['GapBetweenPACs'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0104792290408
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 512:("sqrt(v['SelectByHotkeys'])-sqrt(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00970905373543
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 513:("sqrt(v['GapBetweenPACs'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00970905373543
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 514:("sqrt(v['SelectByHotkeys'])*sqrt(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00961454023438
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 515:("sqrt(v['GapBetweenPACs'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00961454023438
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 516:("sqrt(v['SelectByHotkeys'])/sqrt(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00923468428435
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 517:("sqrt(v['SelectByHotkeys'])+v['ActionsInPAC']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0086604244671
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 518:("v['ActionsInPAC']+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0086604244671
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 519:("sqrt(v['SelectByHotkeys'])-v['ActionsInPAC']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00911965155676
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 520:("v['ActionsInPAC']-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00911965155676
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 521:("sqrt(v['SelectByHotkeys'])*v['ActionsInPAC']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00857700287195
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 522:("v['ActionsInPAC']*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00857700287195
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 523:("sqrt(v['SelectByHotkeys'])/v['ActionsInPAC']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00877892392484
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 524:("sqrt(v['SelectByHotkeys'])+log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00991207343169
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 525:("log(v['ActionsInPAC'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00991207343169
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 526:("sqrt(v['SelectByHotkeys'])-log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00999882179899
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 527:("log(v['ActionsInPAC'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00999882179899
+	Current best("sqrt(v['SelectByHotkeys'])+log(v['GapBetweenPACs'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0105946947907
+Expr 528:("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 529:("log(v['ActionsInPAC'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 530:("sqrt(v['SelectByHotkeys'])/log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00856759792032
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 531:("sqrt(v['SelectByHotkeys'])+sqrt(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0100894740291
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 532:("sqrt(v['ActionsInPAC'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0100894740291
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 533:("sqrt(v['SelectByHotkeys'])-sqrt(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00974130516519
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 534:("sqrt(v['ActionsInPAC'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00974130516519
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 535:("sqrt(v['SelectByHotkeys'])*sqrt(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00980789513476
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 536:("sqrt(v['ActionsInPAC'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00980789513476
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 537:("sqrt(v['SelectByHotkeys'])/sqrt(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00857222139123
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 538:("sqrt(v['SelectByHotkeys'])+v['WorkersMade']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00912643095313
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 539:("v['WorkersMade']+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00912643095313
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 540:("sqrt(v['SelectByHotkeys'])-v['WorkersMade']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00998417229225
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 541:("v['WorkersMade']-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00998417229225
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 542:("sqrt(v['SelectByHotkeys'])*v['WorkersMade']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0108600285826
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 543:("v['WorkersMade']*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0108600285826
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 544:("sqrt(v['SelectByHotkeys'])/v['WorkersMade']", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00876549950862
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 545:("sqrt(v['SelectByHotkeys'])+log(v['WorkersMade'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00903298974117
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 546:("log(v['WorkersMade'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00903298974117
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 547:("sqrt(v['SelectByHotkeys'])-log(v['WorkersMade'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00892696786951
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 548:("log(v['WorkersMade'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00892696786951
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 549:("sqrt(v['SelectByHotkeys'])*log(v['WorkersMade'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00899807991051
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 550:("log(v['WorkersMade'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00899807991051
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 551:("sqrt(v['SelectByHotkeys'])/log(v['WorkersMade'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00959473794317
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 552:("sqrt(v['SelectByHotkeys'])+sqrt(v['WorkersMade'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0099216133286
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 553:("sqrt(v['WorkersMade'])+sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0099216133286
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 554:("sqrt(v['SelectByHotkeys'])-sqrt(v['WorkersMade'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00932922937717
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 555:("sqrt(v['WorkersMade'])-sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00932922937717
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 556:("sqrt(v['SelectByHotkeys'])*sqrt(v['WorkersMade'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102828601589
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 557:("sqrt(v['WorkersMade'])*sqrt(v['SelectByHotkeys'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0102828601589
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 558:("sqrt(v['SelectByHotkeys'])/sqrt(v['WorkersMade'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.00963882970255
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 559:("sqrt(sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC']))", "log(log(v['ActionLatency'])/sqrt(v['APM']))")	0.0102363150439
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508
+Expr 560:("sqrt(sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC']))", "sqrt(log(v['ActionLatency'])/sqrt(v['APM']))")	0.0107882667814
+	Current best("sqrt(v['SelectByHotkeys'])*log(v['ActionsInPAC'])", "log(v['ActionLatency'])/sqrt(v['APM'])")	0.0110525963508

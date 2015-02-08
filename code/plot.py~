@@ -1,0 +1,46 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.delaunay as triang
+import csv
+from math import log, exp, sqrt
+from hdt import DipTest
+
+unaries = ["log", "sqrt"]
+binaries = ["+", "-", "*", "/"]
+
+class Plot:
+    def __init__(self, xexpr, yexpr):
+        self.expr = (xexpr, yexpr)
+        self.x = []
+        self.y = []
+        #self.complexity = 0
+        #for opr in unaries + binaries:
+            #self.complexity += xexpr.count(opr)
+            #self.complexity += yexpr.count(opr)
+        self.score = float('-inf')
+        
+    def setData(self, features, data):
+        for row in data:
+            v = {}
+            for i in range(len(features)):
+                v[features[i]] = eval(row[i])
+            x = eval(self.expr[0])
+            y = eval(self.expr[1])
+            self.x.append(x)
+            self.y.append(y)
+            
+    def plotData(self):
+        plt.xlabel(self.expr[0])
+        plt.ylabel(self.expr[1])
+        cens,edg,tri,neig = triang.delaunay(self.x,self.y)
+        for t in tri:
+            t_i = [t[0], t[1], t[2], t[0]]
+            plt.plot(self.x[t_i],self.y[t_i])
+
+        plt.plot(self.x, self.y, '.')
+        plt.show()
+        
+    def calculateScore(self):
+        score = 0
+        score = (DipTest(self.x) + DipTest(self.y)) #* (512 - 2 ** self.complexity)#        self.score = score
+        return score
