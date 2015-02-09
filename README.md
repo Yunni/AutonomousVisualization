@@ -1,1 +1,1 @@
-[Poster.pdf](https://github.com/Yunni/AutonomousVisualization-UnsupervisedLearning/blob/master/Poster.pdf)
+[Poster.jpeg](https://github.com/Yunni/AutonomousVisualization-UnsupervisedLearning/blob/master/Poster.jpeg)
