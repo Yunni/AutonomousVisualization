@@ -1,1 +1,1 @@
-![Poster.jpeg](https://github.com/Yunni/AutonomousVisualization-UnsupervisedLearning/blob/master/Poster.jpeg)
+![Poster.jpg](https://github.com/Yunni/AutonomousVisualization/blob/master/Poster.jpg)
