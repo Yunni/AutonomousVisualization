@@ -1,100 +1,100 @@
-import csv
-from plot import Plot
+import itertools
+
+from plot import ScatterPlot
+
 
 unaries = ["log", "sqrt", "exp"]
 binaries = ["+", "-", "*", "/", "**"]
 
-def alluryexpr(feature, expr):
-    uryexpr = ["v['" + feature + "']"]
-    for unary in unaries:
-        if expr:
-            uryexpr.append(unary + "(" + feature + ")")
-        else:
-            uryexpr.append(unary + "(v['" + feature + "'])")
-    return uryexpr
 
-class Exprsearch:
-    def __init__(self, ftrs):
-        self.features = ftrs
+def unary_expr(feature, mapping):
+    '''Generate all expressions with unary operations
+
+    :param feature: The feature name
+    :param expr: A boolean variables indicate whether to map the feature
+    :return:
+    '''
+    yield "v['" + feature + "']"
+    for unary in unaries:
+        if mapping:
+            yield unary + "(" + feature + ")"
+        else:
+            yield unary + "(v['" + feature + "'])"
+
+
+class ExprSearch:
+    '''A class that greedily search all the scatter plots.
+
+    '''
+
+    def __init__(self, features, limit):
+        '''
+
+        :param features: Name of the features
+        :param limit: The upper bound of variables in both expressions
+        :return:
+        '''
+        self.features = features
         self.count = 0
-        self.best = Plot("","")
-        
-    def testExpr(self, x, y, data):
-        flag = False
-        plot = Plot(x, y)
-        try:
-            plot.setData(self.features, data)
-            score = plot.calculateScore2()
-        except:
-            return flag
-        self.count = self.count + 1
+        self.best = ScatterPlot("", "")
+        self.limit = limit
+
+    def test_expr(self, x_expr, y_expr, data):
+        '''Test if the expression pair has better score than our current pair.
+        If yes, set our current best pair to this pair.
+
+        :param x_expr: A string expression of x
+        :param y_expr: A string expression of y
+        :param data: A list of list containing the whole numerical dataset
+        '''
+        plot = ScatterPlot(x_expr, y_expr)
+        if not plot.set_points(self.features, data):
+            return
+        score = plot.calculate_score2()
+        self.count += 1
         if score > self.best.score:
             self.best = plot
             print(self.best.score)
-            flag = True
-        print("Expr " + str(self.count) + ":" + str((x, y)) + "\t" + str(score))
+        print("Expr " + str(self.count) + ":" + str((x_expr, y_expr)) + "\t" + str(score))
         print("\tCurrent best" + str(self.best.expr) + "\t" + str(self.best.score))
-        return flag
 
-    def pairSearch(self, data):
-        for i in range(len(self.features)):
-            for j in range(i + 1, len(self.features)):
-                for iexpr in alluryexpr(self.features[i], False):
-                    for jexpr in alluryexpr(self.features[j], False):
-                        self.testExpr(iexpr, jexpr, data)
-    
-    def tripleSearch(self, data):
-        (x, y) = self.best.expr
-        remainForReturn = None
+    def pair_search(self, data):
+        '''Search for a pair of expressions which both x, y contains 1 variable
+
+        :param data:A list of list containing the whole numerical dataset
+        :return:
+        '''
+        for x, y in itertools.combinations(range(len(self.features)), 2):
+            for x_expr, y_expr in itertools.product(unary_expr(self.features[x], False),
+                                                    unary_expr(self.features[y], False)):
+                self.test_expr(x_expr, y_expr, data)
+
+    def additional_search(self, data):
+        '''Given the best expression. Try to add another
+
+        :param data: A list of list containing the whole numerical dataset
+        :return:
+        '''
+        if not self.best.expr[0]:
+            self.pair_search(data)
+        x_expr, y_expr = self.best.expr
         for feature in self.features:
-            if feature in x or feature in y:
+            if feature in x_expr or feature in y_expr:
                 continue
-            for expr in alluryexpr(feature, False):
+            for expr in unary_expr(feature, False):
                 for binary in binaries:
-                        if self.testExpr(x + binary + expr, y, data):
-                            remainForReturn = 'r'
-                        if self.testExpr(expr + binary + x, y, data):
-                            remainForReturn = 'r'
-                        if self.testExpr(x, y + binary + expr, data):
-                            remainForReturn = 'l'
-                        if self.testExpr(x, expr + binary + y, data):
-                            remainForReturn = 'l'
-        return remainForReturn
-    
-    def quadrupleSearch(self, data, remain):
-        (x, y) = self.best.expr
-        for feature in self.features:
-            if feature in x or feature in y:
-                continue
-            for expr in alluryexpr(feature, False):
-                for binary in binaries:
-                    if remain != 'r':
-                        self.testExpr(x + binary + expr, y, data)
-                        self.testExpr(expr + binary + x, y, data)
-                    if remain != 'l':
-                        self.testExpr(x, y + binary + expr, data)
-                        self.testExpr(x, expr + binary + y, data)
-    
-    def search(self,data):
-        self.pairSearch(data)
-        remain = self.tripleSearch(data)
-        self.quadrupleSearch(data, remain)
-        #for x in alluryexpr(self.best.expr[0], True):
-            #for y in alluryexpr(self.best.expr[1], True):
-                #self.testExpr(x, y, data)
+                    self.test_expr(x_expr + binary + expr, y_expr, data)
+                    self.test_expr(expr + binary + x_expr, y_expr, data)
+                    self.test_expr(x_expr, y_expr + binary + expr, data)
+                    self.test_expr(x_expr, expr + binary + y_expr, data)
+
+    def search(self, data):
+        '''Search for the best expressions for x and y.
+
+        :param data: A list of list containing the whole numerical dataset
+        :return:
+        '''
+        self.pair_search(data)
+        for i in range(self.limit - 2):
+            self.additional_search(data)
         return self.best
-    
-with open('seeds_dataset.txt') as csvfile:
-    spamreader = csv.reader(csvfile, delimiter = '\t')
-    data = []
-    for row in spamreader:
-        if '?' not in row:
-            data.append(row)
-    #p = Plot("log(v['area A'])+sqrt(v['compactness'])", "log(v['length of kernel groove'])")
-    #p.setData(data[0],data[1:])
-    #p.plotData()
-    search = Exprsearch(data[0])
-    best = search.search(data[1:])
-    best.plotData()
-    
-    
